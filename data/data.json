@@ -1,0 +1,5889 @@
+[
+    {
+        "book_title": "Основы алгоритмизации и программирования на Python. Учебное пособие",
+        "book_autor": "Гуриков Сергей Ростиславович",
+        "new_price": 2943,
+        "old_price": 5350,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Unity в действии. Мультиплатформенная разработка на C#",
+        "book_autor": "Хокинг Джозеф",
+        "new_price": 2070,
+        "old_price": 2654,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Объекты. Стильное ООП",
+        "book_autor": "Нобак Маттиас",
+        "new_price": 2114,
+        "old_price": 2710,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Kafka Streams и ksqlDB. Данные в реальном времени",
+        "book_autor": "Сеймур Митч",
+        "new_price": 2397,
+        "old_price": 3073,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Алгоритмы на практике. Решение реальных задач",
+        "book_autor": "Зингаро Даниэль",
+        "new_price": 2057,
+        "old_price": 2637,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Современная программная инженерия. ПО в эпоху эджайла и непрерывного развертывания",
+        "book_autor": "Фарли Дэвид",
+        "new_price": 2340,
+        "old_price": 3000,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Внутри Cpython. Гид по интерпретатору Python",
+        "book_autor": "Шоу Энтони",
+        "new_price": 1972,
+        "old_price": 2528,
+        "book_sale": 22
+    },
+    {
+        "book_title": "40 алгоритмов, которые должен знать каждый программист на Python",
+        "book_autor": "Ахмад Имран",
+        "new_price": 1951,
+        "old_price": 2501,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Грокаем функциональное мышление",
+        "book_autor": "Норманд Эрик",
+        "new_price": 2552,
+        "old_price": 3272,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Структуры данных в С++. Учебное пособие",
+        "book_autor": "Русакова, Рудаков",
+        "new_price": 448,
+        "old_price": 814,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Основы Python для Data Science",
+        "book_autor": "Берман Кеннеди",
+        "new_price": 2114,
+        "old_price": 2710,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Фундаментальные основы хакерства. Анализ программ в среде Win64",
+        "book_autor": "Касперски, Язев",
+        "new_price": 2919,
+        "old_price": 5307,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Основы компьютерного моделирования и визуализации + Электронное приложение",
+        "book_autor": "Борзяк, Топорков, Емельянов",
+        "new_price": 6183,
+        "old_price": 6183,
+        "book_sale": 0
+    },
+    {
+        "book_title": "UX/UI дизайн для создания идеального продукта. Полный и исчерпывающий гид",
+        "book_autor": "Шуваев Ярослав Александрович",
+        "new_price": 1219,
+        "old_price": 1670,
+        "book_sale": 27
+    },
+    {
+        "book_title": "Грокаем алгоритмы искусственного интеллекта",
+        "book_autor": "Харбанс Ришал",
+        "new_price": 1731,
+        "old_price": 2219,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Сделай видеоигру один и не свихнись",
+        "book_autor": "Грис Слава",
+        "new_price": 669,
+        "old_price": 916,
+        "book_sale": 27
+    },
+    {
+        "book_title": "Программирование в Unreal Engine 5 для начинающего игродела. Основы визуального языка Blueprint",
+        "book_autor": "Максименкова, Веселко",
+        "new_price": 1862,
+        "old_price": 2551,
+        "book_sale": 27
+    },
+    {
+        "book_title": "C# 10 и .NET 6. Современная кросс-платформенная разработка",
+        "book_autor": "Прайс Марк Дж.",
+        "new_price": 4808,
+        "old_price": 6164,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Computer Science для программиста-самоучки. Все что нужно знать о структурах данных и алгоритмах",
+        "book_autor": "Альтхофф Кори",
+        "new_price": 1412,
+        "old_price": 1810,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Непрерывное развитие API. Правильные решения в изменчивом технологическом ландшафте",
+        "book_autor": "Меджуи, Уайлд, Митра",
+        "new_price": 3795,
+        "old_price": 4865,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Head First. Изучаем Swift",
+        "book_autor": "Мэннинг, Баттфилд-Эддисон",
+        "new_price": 2807,
+        "old_price": 3599,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Kubernetes изнутри",
+        "book_autor": "Вьяс, Лав",
+        "new_price": 2303,
+        "old_price": 4187,
+        "book_sale": 45
+    },
+    {
+        "book_title": "С++ 20 в деталях",
+        "book_autor": "Райнер Гримм",
+        "new_price": 2764,
+        "old_price": 5026,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Математические алгоритмы для программистов. 3D-графика, машинное обучение и моделирование на Python",
+        "book_autor": "Орланд Пол",
+        "new_price": 3475,
+        "old_price": 4455,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Pandas в действии",
+        "book_autor": "Пасхавер Борис",
+        "new_price": 2738,
+        "old_price": 3510,
+        "book_sale": 22
+    },
+    {
+        "book_title": "JavaScript для начинающих",
+        "book_autor": "МакГрат Майк",
+        "new_price": 923,
+        "old_price": 1264,
+        "book_sale": 27
+    },
+    {
+        "book_title": "Интерактивные дашборды и приложения с Plotly и Dash. Используем полноценный веб-фреймворк в Python",
+        "book_autor": "Дабасс Элиас",
+        "new_price": 1995,
+        "old_price": 3628,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Kotlin. Программирование для профессионалов",
+        "book_autor": "Скин, Гринхол, Бэйли",
+        "new_price": 2859,
+        "old_price": 3665,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Тестирование JavaScript",
+        "book_autor": "Коста Лукас да",
+        "new_price": 2547,
+        "old_price": 3265,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Программируем на Java",
+        "book_autor": "Лой, Нимайер, Лук",
+        "new_price": 2836,
+        "old_price": 3636,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Введение в программную инженерию. Учебник",
+        "book_autor": "Антипов, Пылькин, Бубнов",
+        "new_price": 2218,
+        "old_price": 4032,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Создай свой собственный язык программирования. Руководство программиста по разработке компиляторов",
+        "book_autor": "Джеффери Клинтон Л.",
+        "new_price": 2379,
+        "old_price": 4326,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Учимся рисовать на компьютере кодом p5.js",
+        "book_autor": "Розанов, Жуков",
+        "new_price": 1536,
+        "old_price": 2793,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Основы теории интеллектуального управления энергосберегающими режимами. Учебное пособие",
+        "book_autor": "Поляков, Иванов",
+        "new_price": 5771,
+        "old_price": 5771,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Система контроля версий. Основы командной разработки. Учебное пособие",
+        "book_autor": "Васильева, Филипченко",
+        "new_price": 5771,
+        "old_price": 5771,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Разработка программного тренажера в среде многоагентного моделирования NetLogo. Учебное пособие",
+        "book_autor": "Исхаков Алмаз Раилевич",
+        "new_price": 4534,
+        "old_price": 4534,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Эффективное тестирование программного обеспечения",
+        "book_autor": "Аниче Маурисио",
+        "new_price": 2764,
+        "old_price": 5026,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Глубокое обучение на Python",
+        "book_autor": "Шолле Франсуа",
+        "new_price": 2823,
+        "old_price": 3619,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Микропроцессорные системы. Применение микроконтроллеров семейства AVR для управления внешними устр.",
+        "book_autor": "Сонькин, Шамин, Сонькин",
+        "new_price": 751,
+        "old_price": 1366,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Основы визуального программирования в среде Visual Studio на базе C#",
+        "book_autor": "Мартыненко, Турупалов, Андриевская",
+        "new_price": 942,
+        "old_price": 1712,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Пять строк кода. Роберт Мартин рекомендует",
+        "book_autor": "Клаусен Кристиан",
+        "new_price": 1701,
+        "old_price": 2181,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Python. Исчерпывающее руководство",
+        "book_autor": "Бизли Дэвид",
+        "new_price": 2240,
+        "old_price": 2872,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Практикум по анализу данных на языках Python и R. Учебное пособие",
+        "book_autor": "Баюк, Исаева, Самсонкин",
+        "new_price": 518,
+        "old_price": 941,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Знакомство с Python",
+        "book_autor": "Бейдер, Эймос, Яблонски",
+        "new_price": 2142,
+        "old_price": 2746,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Теория и практика программирования на языке Pascal",
+        "book_autor": "Расолько, Кремень",
+        "new_price": 11581,
+        "old_price": 21056,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Искусственный интеллект и компьютерное зрение. Реальные проекты на Python, Keras и TensorFlow",
+        "book_autor": "Коул, Ганджу, Казам",
+        "new_price": 3787,
+        "old_price": 4855,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Грокаем стриминг",
+        "book_autor": "Фишер, Ван",
+        "new_price": 1702,
+        "old_price": 2182,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Высокопроизводительные Python-приложения. Практическое руководство по эффективному программированию",
+        "book_autor": "Горелик, Йен",
+        "new_price": 1499,
+        "old_price": 2053,
+        "book_sale": 27
+    },
+    {
+        "book_title": "Проектирование и разработка интерфейсов пользователя. Учебное пособие. ФГОС СПО",
+        "book_autor": "Шитов, Успенский",
+        "new_price": 1454,
+        "old_price": 2644,
+        "book_sale": 45
+    },
+    {
+        "book_title": "JavaScript. Картинки, галереи, слайдеры. Учебное пособие для вузов",
+        "book_autor": "Янцев Валерий Викторович",
+        "new_price": 4122,
+        "old_price": 4122,
+        "book_sale": 0
+    },
+    {
+        "book_title": "JavaScript. Картинки, галереи, слайдеры. Учебное пособие для СПО",
+        "book_autor": "Янцев Валерий Викторович",
+        "new_price": 4122,
+        "old_price": 4122,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Entity Framework Core в действии",
+        "book_autor": "Смит Джон П.",
+        "new_price": 3071,
+        "old_price": 5583,
+        "book_sale": 45
+    },
+    {
+        "book_title": "API в разработке приложений Autodesk Inventor. Практическое руководство",
+        "book_autor": "Дюймовский Пайни",
+        "new_price": 2042,
+        "old_price": 3713,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Python без проблем. Решаем реальные задачи и пишем полезный код",
+        "book_autor": "Зингаро Даниэль",
+        "new_price": 1618,
+        "old_price": 2074,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Создаем динамические веб-сайты с помощью PHP, MySQL, JavaScript, CSS и HTML5",
+        "book_autor": "Никсон Робин",
+        "new_price": 2823,
+        "old_price": 3619,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Кибердзюцу. Кибербезопасность для современных ниндзя",
+        "book_autor": "Маккарти Бен",
+        "new_price": 1844,
+        "old_price": 2364,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Black Hat Go. Программирование для хакеров и пентестеров",
+        "book_autor": "Коттманн, Паттен, Стил",
+        "new_price": 2511,
+        "old_price": 3219,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Алгоритмы неформально. Инструкция для начинающих питонистов",
+        "book_autor": "Брэдфорд Такфилд",
+        "new_price": 1417,
+        "old_price": 1817,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Разработка интерфейсов. Паттерны проектирования",
+        "book_autor": "Тидвелл, Брюэр, Эйнн",
+        "new_price": 2766,
+        "old_price": 3546,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Компьютерные системы. Архитектура и программирование",
+        "book_autor": "Брайант, О`Халларон",
+        "new_price": 3838,
+        "old_price": 6979,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Социальная инженерия и этичный хакинг на практике",
+        "book_autor": "Грей Джо",
+        "new_price": 1536,
+        "old_price": 2793,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Spring быстро",
+        "book_autor": "Спилкэ Лауренциу",
+        "new_price": 2836,
+        "old_price": 3636,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Kali Linux. Библия пентестера",
+        "book_autor": "Хаваджа Гас",
+        "new_price": 4241,
+        "old_price": 5437,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Теория автоматического управления в примерах и задачах с решениями в MATLAB. Учебное пособие",
+        "book_autor": "Гайдук, Пьявченко, Беляев",
+        "new_price": 4888,
+        "old_price": 4888,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Основы программирования. Учебник для СПО",
+        "book_autor": "Шеина Татьяна Юрьевна",
+        "new_price": 2681,
+        "old_price": 2681,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Scala. Профессиональное программирование",
+        "book_autor": "Одерски, Спун, Веннерс",
+        "new_price": 5659,
+        "old_price": 7255,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Язык программирования С++",
+        "book_autor": "Страуструп Бьерн",
+        "new_price": 2516,
+        "old_price": 4575,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Интернет вещей для начинающих. Визуальное программирование микроконтроллеров семейства ESP8266",
+        "book_autor": "Шамин Алексей Алексеевич",
+        "new_price": 751,
+        "old_price": 1366,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Моделирование систем управления. Учебник для вузов",
+        "book_autor": "Семенов, Юрков",
+        "new_price": 4122,
+        "old_price": 4122,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Исследование операций. Том 2. Задачи транспортного типа. Учебник для вузов",
+        "book_autor": "Трушков Александр Сергеевич",
+        "new_price": 4122,
+        "old_price": 4122,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Python для сетевых инженеров. Автоматизация сети, программирование и DevOps",
+        "book_autor": "Чоу Эрик",
+        "new_price": 3815,
+        "old_price": 4891,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Kafka в действии",
+        "book_autor": "Скотт, Гамов, Клейн",
+        "new_price": 2303,
+        "old_price": 4187,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Python. К вершинам мастерства. Лаконичное и эффективное программирование",
+        "book_autor": "Лусиану Рамальо",
+        "new_price": 3838,
+        "old_price": 6979,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Объяснимые модели искусственного интеллекта на Python. Модель искусственного интеллекта",
+        "book_autor": "Мишра Прадипта",
+        "new_price": 1995,
+        "old_price": 3628,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Проектирование гибких программ",
+        "book_autor": "Хансон, Сассман",
+        "new_price": 2303,
+        "old_price": 4187,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Идеальная работа. Программирование без прикрас",
+        "book_autor": "Мартин Роберт С.",
+        "new_price": 1361,
+        "old_price": 1745,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Криптографические основы блокчейн-технологий",
+        "book_autor": "Ищукова, Панасенко, Романенко",
+        "new_price": 1536,
+        "old_price": 2793,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Web-программирование на Python. Учебное пособие",
+        "book_autor": "Янцев Валерий Викторович",
+        "new_price": 3504,
+        "old_price": 3504,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Web-программирование на Python. СПО",
+        "book_autor": "Янцев Валерий Викторович",
+        "new_price": 3504,
+        "old_price": 3504,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Go. Идиомы и паттерны проектирования",
+        "book_autor": "Боднер Джон",
+        "new_price": 2823,
+        "old_price": 3619,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Python. Чистый код для продолжающих",
+        "book_autor": "Свейгарт Эл",
+        "new_price": 2263,
+        "old_price": 2901,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Как проектировать программы",
+        "book_autor": "Фелляйзен, Финдлер, Флэтт",
+        "new_price": 3071,
+        "old_price": 5583,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Введение в программирование и структуры данных",
+        "book_autor": "Фислер, Кришнамурти, Политц",
+        "new_price": 2303,
+        "old_price": 4187,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Введение в гибридные технологии разработки мобильных приложений. Учебное пособие. СПО",
+        "book_autor": "Заяц, Васильев",
+        "new_price": 2318,
+        "old_price": 2318,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Программирование в САПР. Учебное пособие",
+        "book_autor": "Лянг Виктор Федорович",
+        "new_price": 3164,
+        "old_price": 5753,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Введение в гибридные технологии разработки мобильных приложений. Учебное пособие",
+        "book_autor": "Васильев, Заяц",
+        "new_price": 4052,
+        "old_price": 4052,
+        "book_sale": 0
+    },
+    {
+        "book_title": "SQL. Быстрое погружение",
+        "book_autor": "Шилдс Уолтер",
+        "new_price": 1270,
+        "old_price": 1628,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Spring Boot по-быстрому",
+        "book_autor": "Хеклер Марк",
+        "new_price": 2397,
+        "old_price": 3073,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Параллельное программирование на современном С++",
+        "book_autor": "Гримм Райнер",
+        "new_price": 3071,
+        "old_price": 5583,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Устройство и программирование автономных роботов. Проекты на Python и Raspberry PI",
+        "book_autor": "Стейпл Дэнни",
+        "new_price": 1995,
+        "old_price": 3628,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Практический хакинг интернета вещей",
+        "book_autor": "Чанцис, Стаис, Кальдерон",
+        "new_price": 2764,
+        "old_price": 5026,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Spring в действии",
+        "book_autor": "Уоллс Крейг",
+        "new_price": 3071,
+        "old_price": 5583,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Практическое введение в решение дифференциальных уравнений в Python",
+        "book_autor": "Ершов Николай Михайлович",
+        "new_price": 1536,
+        "old_price": 2793,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Open Source. Разработка программ с открытым исходным кодом",
+        "book_autor": "Эгбал Надья",
+        "new_price": 2405,
+        "old_price": 3083,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Теоретический минимум по Computer Science. Сети, криптография и data science",
+        "book_autor": "Феррейра, Пиктет",
+        "new_price": 1503,
+        "old_price": 1927,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Программирование в Roblox. Сделать игру - проще простого",
+        "book_autor": "Брамбо Зандер",
+        "new_price": 1536,
+        "old_price": 2793,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Алгоритмы. Самый краткий и понятный курс",
+        "book_autor": "Луридас Панос",
+        "new_price": 607,
+        "old_price": 832,
+        "book_sale": 27
+    },
+    {
+        "book_title": "Масштабируемый рефакторинг. Возвращаем контроль над кодом",
+        "book_autor": "Лемер Мод",
+        "new_price": 1631,
+        "old_price": 2091,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Многопоточный JavaScript",
+        "book_autor": "Хантер, Инглиш",
+        "new_price": 1995,
+        "old_price": 3628,
+        "book_sale": 45
+    },
+    {
+        "book_title": "JavaScript. Визуальные редакторы. Учебное пособие для СПО",
+        "book_autor": "Янцев Валерий Викторович",
+        "new_price": 2621,
+        "old_price": 2621,
+        "book_sale": 0
+    },
+    {
+        "book_title": "JavaScript. Визуальные редакторы. Учебное пособие для вузов",
+        "book_autor": "Янцев Валерий Викторович",
+        "new_price": 2621,
+        "old_price": 2621,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Языки программирования и методы трансляции. Учебное пособие для вузов",
+        "book_autor": "Свердлов Сергей Залманович",
+        "new_price": 4256,
+        "old_price": 4256,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Графический анализ на языке R. Учебно-методическое пособие",
+        "book_autor": "Лукьянов Павел Борисович",
+        "new_price": 666,
+        "old_price": 1210,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Head First. Изучаем C#",
+        "book_autor": "Стиллмен, Грин",
+        "new_price": 2908,
+        "old_price": 3728,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Основы алгоритмизации и программирования на Visual C++. Учебное пособие",
+        "book_autor": "Гуриков Сергей Ростиславович",
+        "new_price": 2943,
+        "old_price": 5350,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Дисциплина программирования. Матем.обеспечение ЭВМ",
+        "book_autor": "Дейкстра Э.",
+        "new_price": 2232,
+        "old_price": 2861,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Алгоритмы и программы. Язык С++. Учебное пособие для СП",
+        "book_autor": "Конова, Поллак",
+        "new_price": 2298,
+        "old_price": 2298,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Вероятностное программирование. Учебное пособие",
+        "book_autor": "Колбин Вячеслав Викторович",
+        "new_price": 5085,
+        "old_price": 5085,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Программирование на языке Си. Учебное пособие для вузов",
+        "book_autor": "Рацеев Сергей Михайлович",
+        "new_price": 4151,
+        "old_price": 4151,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Руткиты и буткиты. Обратная разработка вредоносных программ и угрозы следующего поколения",
+        "book_autor": "Матросов, Родионов, Братусь",
+        "new_price": 2918,
+        "old_price": 5306,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Профессиональный бенчмарк. Искусство измерения производительности",
+        "book_autor": "Акиньшин Андрей",
+        "new_price": 2836,
+        "old_price": 3636,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Язык программирования C# 9 и платформа .NET 5: основные принципы и практики программирования",
+        "book_autor": "Троелсен, Джепикс",
+        "new_price": 5914,
+        "old_price": 10752,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Этичный хакинг. Практическое руководство по взлому",
+        "book_autor": "Грэм Дэниел Г.",
+        "new_price": 2255,
+        "old_price": 2891,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Основы построения экономических моделей в Excel. Учебник для СПО",
+        "book_autor": "Воскобойников, Мухина",
+        "new_price": 2404,
+        "old_price": 2404,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Программирование на языке Си.Учебное пособие для СПО",
+        "book_autor": "Рацеев Сергей Михайлович",
+        "new_price": 3932,
+        "old_price": 3932,
+        "book_sale": 0
+    },
+    {
+        "book_title": "JavaScript.Как писать программы.Учебное пособие для вузов",
+        "book_autor": "Янцев Валерий Викторович",
+        "new_price": 2842,
+        "old_price": 2842,
+        "book_sale": 0
+    },
+    {
+        "book_title": "JavaScript.Как писать программы Учебное пособие для СПО",
+        "book_autor": "Янцев Валерий Викторович",
+        "new_price": 2842,
+        "old_price": 2842,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Построение распределенных систем на базе WebSocket. Учебное пособие для вузов",
+        "book_autor": "Хабаров, Шилкина",
+        "new_price": 3041,
+        "old_price": 3041,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Svelte и Sapper в действии",
+        "book_autor": "Волкманн Марк",
+        "new_price": 4197,
+        "old_price": 5381,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Хочу в геймдев! Основы игровой разработки для начинающих",
+        "book_autor": "Уточкин, Сахнов",
+        "new_price": 1013,
+        "old_price": 1388,
+        "book_sale": 27
+    },
+    {
+        "book_title": "Разработка игр и теория развлечений",
+        "book_autor": "Костер Рэф",
+        "new_price": 1765,
+        "old_price": 3209,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Структуры данных в Python. Начальный курс",
+        "book_autor": "Шихи Дональд Р.",
+        "new_price": 1382,
+        "old_price": 2513,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Большая книга проектов Python",
+        "book_autor": "Свейгарт Эл",
+        "new_price": 1688,
+        "old_price": 2164,
+        "book_sale": 22
+    },
+    {
+        "book_title": "System Design. Подготовка к сложному интервью",
+        "book_autor": "Сюй Алекс",
+        "new_price": 1404,
+        "old_price": 1800,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Отзывчивый дизайн на HTML5 и CSS3 для любых устройств",
+        "book_autor": "Фрэйн Бен",
+        "new_price": 2268,
+        "old_price": 2908,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Глубокое обучение с подкреплением. Теория и практика на языке Python",
+        "book_autor": "Грессер, Кенг",
+        "new_price": 2540,
+        "old_price": 3256,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Искусство WebAssembly. Создание безопасных межплатформенных высокопроизводительных приложений",
+        "book_autor": "Баттальини Рик",
+        "new_price": 1536,
+        "old_price": 2793,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Микросервисы Spring в действии",
+        "book_autor": "Карнелл, Санчес",
+        "new_price": 2764,
+        "old_price": 5026,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Осваиваем архитектуру Transformer. Разработка современных моделей с помощью передовых методов",
+        "book_autor": "Йылдырым, Асгари-Ченаглу",
+        "new_price": 2303,
+        "old_price": 4187,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Основы юзабилити-тестирования",
+        "book_autor": "Барнум Кэрол М.",
+        "new_price": 2764,
+        "old_price": 5026,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Творческие проекты с микроконтроллером в среде TinyGo и WebAssembly",
+        "book_autor": "Тил Тобиас",
+        "new_price": 1688,
+        "old_price": 3069,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Программирование на Python. Первые шаги",
+        "book_autor": "Щерба Анастасия Владимировна",
+        "new_price": 763,
+        "old_price": 1387,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Вычисления в кольцах некоммутативных многочленов. Учебное пособие для вузов",
+        "book_autor": "Цирулик Владимир Григорьевич",
+        "new_price": 4170,
+        "old_price": 4170,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Практический анализ двоичных файлов",
+        "book_autor": "Эндриесс Дэннис",
+        "new_price": 2610,
+        "old_price": 4746,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Изучаем C# через разработку игр на Unity",
+        "book_autor": "Ферроне Харрисон",
+        "new_price": 1830,
+        "old_price": 2346,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Основы алгоритмизации и программирования на языке Паскаль. Лабораторный практикум. Учебное пособие",
+        "book_autor": "Коренская Ирина Николаевна",
+        "new_price": 1647,
+        "old_price": 1647,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Исследование операций. Том 1. Линейное программирование. Учебник для вузов",
+        "book_autor": "Трушков Александр Сергеевич",
+        "new_price": 3059,
+        "old_price": 3059,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Как программировать на С",
+        "book_autor": "Дейтел, Дейтел",
+        "new_price": 1589,
+        "old_price": 2889,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Игра в цифры. Как аналитика позволяет видеоиграм жить лучше",
+        "book_autor": "Сабиров Василий Константинович",
+        "new_price": 1407,
+        "old_price": 1928,
+        "book_sale": 27
+    },
+    {
+        "book_title": "Apache Airflow и конвейеры обработки данных",
+        "book_autor": "Харенслак, Руйтер",
+        "new_price": 2918,
+        "old_price": 5306,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Python для всех",
+        "book_autor": "Северанс Чарльз Р.",
+        "new_price": 997,
+        "old_price": 1813,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Практикум по проектированию на языках VerilogHDL и SystemVerilog. Учебное пособие",
+        "book_autor": "Мурсаев, Буренева",
+        "new_price": 1406,
+        "old_price": 1406,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Использование языка Python в теории вероятности. Учебник",
+        "book_autor": "Криволапов Сергей Яковлевич",
+        "new_price": 1626,
+        "old_price": 2957,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Экономика на Python. Учебник",
+        "book_autor": "Хрипунова, Губернаторов",
+        "new_price": 1183,
+        "old_price": 2151,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Black Hat Python. Программирование для хакеров и пентестеров",
+        "book_autor": "Зейтц, Арнольд",
+        "new_price": 1688,
+        "old_price": 2164,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Однострочники Python. Лаконичный и содержательный код",
+        "book_autor": "Майер Кристиан",
+        "new_price": 1688,
+        "old_price": 2164,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Гид Java-разработчика. Проектно-ориентированный подход",
+        "book_autor": "Урма, Уорбэртон",
+        "new_price": 819,
+        "old_price": 1122,
+        "book_sale": 27
+    },
+    {
+        "book_title": "PHP 8. Объекты, шаблоны и методики программирования",
+        "book_autor": "Зандстра Мэтт",
+        "new_price": 4436,
+        "old_price": 8066,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Python и DevOps. Ключ к автоматизации Linux",
+        "book_autor": "Гифт, Берман, Деза",
+        "new_price": 2561,
+        "old_price": 3283,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Прикладное программирование на С/С++: с нуля",
+        "book_autor": "Иванов Всеволод Борисович",
+        "new_price": 768,
+        "old_price": 1397,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Введение в логическое программирование",
+        "book_autor": "Дженесерет, Чаудри",
+        "new_price": 1382,
+        "old_price": 2513,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Параллельное программирование на C# и .NET Core",
+        "book_autor": "Шакти Танвар",
+        "new_price": 1612,
+        "old_price": 2930,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Разработка игр на языке JavaScript. Учебное пособие",
+        "book_autor": "Беляев Сергей Алексеевич",
+        "new_price": 717,
+        "old_price": 717,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Параллельные и высокопроизводительные вычисления",
+        "book_autor": "Роби, Замора",
+        "new_price": 3838,
+        "old_price": 6979,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Исследование операций в экономике. Практикум. Учебное пособие для вузов",
+        "book_autor": "Слабнов Виктор Дмитриевич",
+        "new_price": 3932,
+        "old_price": 3932,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Паттерны разработки на Python. TDD, DDD и событийно-ориентированная архитектура",
+        "book_autor": "Персиваль, Грегори",
+        "new_price": 2127,
+        "old_price": 2727,
+        "book_sale": 22
+    },
+    {
+        "book_title": "WebAssembly в действии",
+        "book_autor": "Галлан Жерар",
+        "new_price": 2823,
+        "old_price": 3619,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Тестирование программного обеспечения",
+        "book_autor": "Игнатьев Александр Владимирович",
+        "new_price": 742,
+        "old_price": 742,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Разработка моделей предметной области автоматизации. Учебник для вузов",
+        "book_autor": "Котлинский Сергей Владимирович",
+        "new_price": 4589,
+        "old_price": 4589,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Разработка моделей предметной области автоматизации. Учебник для СПО",
+        "book_autor": "Котлинский Сергей Владимирович",
+        "new_price": 4151,
+        "old_price": 4151,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Тестирование программного обеспечения. Учебное пособие для СПО",
+        "book_autor": "Игнатьев Александр Владимирович",
+        "new_price": 742,
+        "old_price": 742,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Проектирование человеко-машинного взаимодействия. Учебник для вузов",
+        "book_autor": "Игнатьев Александр Владимирович",
+        "new_price": 742,
+        "old_price": 742,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Программные коллекции данных. Проектирование и реализация. Учебник",
+        "book_autor": "Романенко Татьяна Александровна",
+        "new_price": 2404,
+        "old_price": 2404,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Программные коллекции данных. Проектирование и реализация. Учебное пособие для СПО",
+        "book_autor": "Романенко Татьяна Александровна",
+        "new_price": 2404,
+        "old_price": 2404,
+        "book_sale": 0
+    },
+    {
+        "book_title": "C# 9 и .NET 5. Разработка и оптимизация",
+        "book_autor": "Прайс Марк Дж.",
+        "new_price": 3545,
+        "old_price": 4545,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Функциональное программирование. Учебник",
+        "book_autor": "Гордиенко Александр Петрович",
+        "new_price": 1118,
+        "old_price": 2032,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Clojure на производстве",
+        "book_autor": "Гришаев Иван",
+        "new_price": 1536,
+        "old_price": 2793,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Алгоритмы ГИС",
+        "book_autor": "Сяо Нинчуань",
+        "new_price": 1842,
+        "old_price": 3349,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Изучаем SHINY",
+        "book_autor": "Уикем Хэдли",
+        "new_price": 2456,
+        "old_price": 4466,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Программирование. Учебник",
+        "book_autor": "Иванова Галина Сергеевна",
+        "new_price": 1230,
+        "old_price": 2237,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Анализ поведенческих данных на R и PYTHON",
+        "book_autor": "Бюиссон Флоран",
+        "new_price": 2303,
+        "old_price": 4187,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Оптимизация запросов PostgreSQL",
+        "book_autor": "Домбровская, Бейликова, Новиков",
+        "new_price": 1612,
+        "old_price": 2930,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Разработка беспилотных транспортных средств",
+        "book_autor": "Лю, Ли, Тан",
+        "new_price": 1688,
+        "old_price": 3069,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Сети 6G. Путь от 5G к 6G глазами разработчиков",
+        "book_autor": "Тонг, Ахаваин, Чжу",
+        "new_price": 3071,
+        "old_price": 5583,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Корпоративные информационные системы на базе решения Oracle E-Business Suite. Калькуляция затрат",
+        "book_autor": "Васильева, Громова",
+        "new_price": 592,
+        "old_price": 1076,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Проектирование цифровых образовательных ресурсов",
+        "book_autor": "Коннова, Липагина, Постовалова",
+        "new_price": 1109,
+        "old_price": 2016,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Классические задачи Computer Science на языке Java",
+        "book_autor": "Копец Дэвид",
+        "new_price": 1545,
+        "old_price": 1981,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Информационное моделирование: методолгия использования цифровых моделей. Часть 1",
+        "book_autor": "Бачурина Светлана Самуиловна",
+        "new_price": 767,
+        "old_price": 1395,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Head First. Паттерны проектирования",
+        "book_autor": "Фримен, Сьерра, Робсон",
+        "new_price": 2127,
+        "old_price": 2727,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Web-программирование на JavaScript. Учебное пособие для СПО",
+        "book_autor": "Диков Андрей Валентинович",
+        "new_price": 1901,
+        "old_price": 1901,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Автоматизация рутинных задач с помощью Python",
+        "book_autor": "Свейгарт Эл",
+        "new_price": 2958,
+        "old_price": 5378,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Алгоритмы. Теория и практическое применение",
+        "book_autor": "Стивенс Род",
+        "new_price": 1268,
+        "old_price": 1737,
+        "book_sale": 27
+    },
+    {
+        "book_title": "Апокалипсис криптографии. Подготовка криптографии к квантовым вычислениям",
+        "book_autor": "Граймс Роджер А.",
+        "new_price": 1842,
+        "old_price": 3349,
+        "book_sale": 45
+    },
+    {
+        "book_title": "{Вы пока еще не знаете JS} Познакомьтесь, JavaScript",
+        "book_autor": "Симпсон Кайл",
+        "new_price": 1121,
+        "old_price": 1437,
+        "book_sale": 22
+    },
+    {
+        "book_title": "{Вы пока еще не знаете JS}. Область видимости и замыкания",
+        "book_autor": "Симпсон Кайл",
+        "new_price": 1192,
+        "old_price": 1528,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Паттерны программирования игр",
+        "book_autor": "Нистрем Роберт",
+        "new_price": 1499,
+        "old_price": 2053,
+        "book_sale": 27
+    },
+    {
+        "book_title": "React. Современные шаблоны для разработки приложений",
+        "book_autor": "Бэнкс, Порселло",
+        "new_price": 1945,
+        "old_price": 2493,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Как программировать на С++",
+        "book_autor": "Дейтел, Дейтел",
+        "new_price": 1589,
+        "old_price": 2889,
+        "book_sale": 45
+    },
+    {
+        "book_title": "JavaScript. Обработка событий на примерах. Учебное пособие",
+        "book_autor": "Янцев Валерий Викторович",
+        "new_price": 2621,
+        "old_price": 2621,
+        "book_sale": 0
+    },
+    {
+        "book_title": "ASP.NET CORE в действии",
+        "book_autor": "Лок Эндрю",
+        "new_price": 3148,
+        "old_price": 5723,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Анализируем данные в Microsoft Power BI. Подготовка к экзамену DA-100",
+        "book_autor": "Маслюк Даниил",
+        "new_price": 1842,
+        "old_price": 3349,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Программирование на PHP в примерах и задачах",
+        "book_autor": "Васильев Алексей",
+        "new_price": 965,
+        "old_price": 1322,
+        "book_sale": 27
+    },
+    {
+        "book_title": "Статистический анализ экспериментальных данных в пакетах MathCAD и Excel. Учебное пособие для вузов",
+        "book_autor": "Воскобойников Юрий Евгеньевич",
+        "new_price": 3157,
+        "old_price": 3157,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Инженерные расчеты. Книга-билингва. Учебное пособие",
+        "book_autor": "Очков, Орлов, Тихонов",
+        "new_price": 3932,
+        "old_price": 3932,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Системы искусственного интеллекта. Моделирование нейронных сетей в системе MATLAB. Лабораторный пр.",
+        "book_autor": "Романов, Романова",
+        "new_price": 1529,
+        "old_price": 1529,
+        "book_sale": 0
+    },
+    {
+        "book_title": "JavaScript. Обработка событий на примерах. Учебное пособие для СПО",
+        "book_autor": "Янцев Валерий Викторович",
+        "new_price": 2621,
+        "old_price": 2621,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Компьютерное моделирование автоматизации технологических процессов и производств. Практикум. СПО",
+        "book_autor": "Алексеев Владимир Анатольевич",
+        "new_price": 2404,
+        "old_price": 2404,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Ghidra. Полное руководство",
+        "book_autor": "Игл, Нэнс",
+        "new_price": 2918,
+        "old_price": 5306,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Изучаем WinUI 3.0",
+        "book_autor": "Эшкрафт Элвин",
+        "new_price": 1536,
+        "old_price": 2793,
+        "book_sale": 45
+    },
+    {
+        "book_title": "JavaScript для профессиональных веб-разработчиков",
+        "book_autor": "Фрисби Мэтт",
+        "new_price": 3472,
+        "old_price": 4451,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Осваиваем Ethereum. Создание смарт-контрактов и децентрализованных приложений",
+        "book_autor": "Антонопулос, Вуд",
+        "new_price": 2078,
+        "old_price": 2846,
+        "book_sale": 27
+    },
+    {
+        "book_title": "SQL за 10 минут",
+        "book_autor": "Форта Бен",
+        "new_price": 1478,
+        "old_price": 2688,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Облачные архитектуры. Разработка устойчивых и экономичных облачных приложений",
+        "book_autor": "Лащевски, Арора, Фарр",
+        "new_price": 1560,
+        "old_price": 2000,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Программируем на C# 8.0. Разработка приложений",
+        "book_autor": "Гриффитс Иэн",
+        "new_price": 4099,
+        "old_price": 5255,
+        "book_sale": 22
+    },
+    {
+        "book_title": "C# 9.0. Справочник. Полное описание языка",
+        "book_autor": "Албахари Джозеф",
+        "new_price": 5224,
+        "old_price": 9498,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Изучаем квантовые вычисления на Python и Q#",
+        "book_autor": "Кайзер, Гранад",
+        "new_price": 2149,
+        "old_price": 3908,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Системы автоматического управления: теория, применение, моделирование в MATLAB. Учебное пособие",
+        "book_autor": "Ощепков Александр Юрьевич",
+        "new_price": 2780,
+        "old_price": 2780,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Коды с суммированием для систем технического диагностирования. В 2-х томах",
+        "book_autor": "Сапожников, Ефанов, Сапожников",
+        "new_price": 1001,
+        "old_price": 1820,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Основы тестирования программного обеспечения. Учебное пособие для СПО",
+        "book_autor": "Старолетов Сергей Михайлович",
+        "new_price": 2864,
+        "old_price": 2864,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Гид по Computer Science, расширенное издание",
+        "book_autor": "Спрингер Вильям",
+        "new_price": 1185,
+        "old_price": 1519,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Computer Science. Основы программирования на Java, ООП, алгоритмы и структуры данных",
+        "book_autor": "Седжвик, Уэйн",
+        "new_price": 2681,
+        "old_price": 3437,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Как работают компьютерные сети и интернет",
+        "book_autor": "Северанс Чарльз Р.",
+        "new_price": 997,
+        "old_price": 1813,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Разработка конвейеров машинного обучения. Автоматизация жизненных циклов модели с помощью TensorFlow",
+        "book_autor": "Ханнес, Нельсон",
+        "new_price": 1612,
+        "old_price": 2930,
+        "book_sale": 45
+    },
+    {
+        "book_title": "SQL для хранения, обработки и анализа данных",
+        "book_autor": "Туманов, Гайфуллин",
+        "new_price": 600,
+        "old_price": 1090,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Безопасность веб-приложений. Разведка, защита, нападение",
+        "book_autor": "Хоффман Эндрю",
+        "new_price": 2521,
+        "old_price": 3232,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Распределенные данные. Алгоритмы работы современных систем хранения информации",
+        "book_autor": "Петров Алекс",
+        "new_price": 2731,
+        "old_price": 3501,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Безопасно by Design",
+        "book_autor": "Берг, Деоган, Савано",
+        "new_price": 2213,
+        "old_price": 2837,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Разработка на JavaScript. Построение кроссплатформенных приложений с помощью GraphQL, React",
+        "book_autor": "Скотт Адам Д.",
+        "new_price": 2402,
+        "old_price": 3079,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Пакет прикладных программ. Учебное пособие",
+        "book_autor": "Шитов Виктор Николаевич",
+        "new_price": 1848,
+        "old_price": 3360,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Программирование в САПР. Пространственное моделирование колонного аппарата в среде Autodesk Inventor",
+        "book_autor": "Лянг Виктор Федорович",
+        "new_price": 1464,
+        "old_price": 2662,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Искусство тестирования на проникновение в сеть",
+        "book_autor": "Дэвис Ройс",
+        "new_price": 1688,
+        "old_price": 3069,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Построение пользовательских интерфейсов",
+        "book_autor": "Малышев Кирилл Викторович",
+        "new_price": 1688,
+        "old_price": 3069,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Data Science для карьериста",
+        "book_autor": "Нолис, Робинсон",
+        "new_price": 2459,
+        "old_price": 3152,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Экстремальный Cи. Параллелизм, ООП и продвинутые возможности",
+        "book_autor": "Амини Камран",
+        "new_price": 3105,
+        "old_price": 3981,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Системы искусственного интеллекта. Учебное пособие",
+        "book_autor": "Бураков Михаил Владимирович",
+        "new_price": 656,
+        "old_price": 1193,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Алгоритмы обработки текста. 125 задач с решениями",
+        "book_autor": "Крошемор, Лекрок, Риттер",
+        "new_price": 1536,
+        "old_price": 2793,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Аналитика в Power BI с помощью R и Python",
+        "book_autor": "Уэйд Райан",
+        "new_price": 2303,
+        "old_price": 4187,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Программирование. Введение в профессию. Том 2. Системы и сети",
+        "book_autor": "Столяров Андрей Викторович",
+        "new_price": 2610,
+        "old_price": 4746,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Программирование. Введение в профессию. Том 3. Парадигмы",
+        "book_autor": "Столяров Андрей Викторович",
+        "new_price": 2610,
+        "old_price": 4746,
+        "book_sale": 45
+    },
+    {
+        "book_title": "C#. Алгоритмы и структуры данных. Учебное пособие для вузов",
+        "book_autor": "Тюкачев, Хлебостроев",
+        "new_price": 5183,
+        "old_price": 5183,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Python, например",
+        "book_autor": "Лейси Никола",
+        "new_price": 1589,
+        "old_price": 2037,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Изучаем SQL. Генерация, выборка и обработка данных",
+        "book_autor": "Болье Алан",
+        "new_price": 2958,
+        "old_price": 5378,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Знакомство с программированием на языке Processing",
+        "book_autor": "Риас, Фрай",
+        "new_price": 1151,
+        "old_price": 2093,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Принятие решений и феномен неопределенности. Учебное пособие",
+        "book_autor": "Клименко Игорь Семенович",
+        "new_price": 2277,
+        "old_price": 2277,
+        "book_sale": 0
+    },
+    {
+        "book_title": "C#. Основы программирования (+CD). Учебное пособие для СПО",
+        "book_autor": "Тюкачев, Хлебостроев",
+        "new_price": 3345,
+        "old_price": 3345,
+        "book_sale": 0
+    },
+    {
+        "book_title": "JavaScript для глубокого обучения. TensorFlow.js",
+        "book_autor": "Шолле, Нильсон, Байлесчи",
+        "new_price": 3545,
+        "old_price": 4545,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Введение в язык Си++",
+        "book_autor": "Столяров Андрей Викторович",
+        "new_price": 921,
+        "old_price": 1674,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Оформление программного кода",
+        "book_autor": "Столяров Андрей Викторович",
+        "new_price": 767,
+        "old_price": 1395,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Профессиональное программирование на ассемблере x64 с расширениями AVX, AVX2 и AVX-512",
+        "book_autor": "Куссвюрм Даниэль",
+        "new_price": 2764,
+        "old_price": 5026,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Те же 10 вопросов через 20 лет. Офис и компьютер",
+        "book_autor": "Проскурин Сергей Павлович",
+        "new_price": 268,
+        "old_price": 343,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Программирование. Введение в профессию. Том 1. Азы программирования",
+        "book_autor": "Столяров Андрей Викторович",
+        "new_price": 2610,
+        "old_price": 4746,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Имитационное моделирование процессов и систем в АПК. Учебное пособие",
+        "book_autor": "Худякова, Липатов",
+        "new_price": 1932,
+        "old_price": 3512,
+        "book_sale": 45
+    },
+    {
+        "book_title": "ВОСХОД программиста",
+        "book_autor": "Земцов А. Н.",
+        "new_price": 955,
+        "old_price": 1224,
+        "book_sale": 22
+    },
+    {
+        "book_title": "JavaScript с нуля",
+        "book_autor": "Чиннатамби Кирупа",
+        "new_price": 1545,
+        "old_price": 1981,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Наглядный CSS",
+        "book_autor": "Сидельников Грег",
+        "new_price": 1404,
+        "old_price": 1800,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Основы разработки iOS-приложений на C# с помощью Xamarin. Учебное пособие для вузов",
+        "book_autor": "Умрихин Евгений Дмитриевич",
+        "new_price": 3440,
+        "old_price": 3440,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Основы разработки iOS-приложений на C# с помощью Xamarin.СПО",
+        "book_autor": "Умрихин Евгений Дмитриевич",
+        "new_price": 3279,
+        "old_price": 3279,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Программирование. Сборник задач. Учебное пособие для СПО",
+        "book_autor": "Маран, Батасова, Гречкина",
+        "new_price": 2025,
+        "old_price": 2025,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Математическое программирование.СПО",
+        "book_autor": "Ганичева Антонина Валериановна",
+        "new_price": 1864,
+        "old_price": 1864,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Программирование на ассемблере х64. От начального уровня до профессионального использования AVX64",
+        "book_autor": "Йо Ван Гуй",
+        "new_price": 1995,
+        "old_price": 3628,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Обработка и представление данных в MS Excel. Учебное пособие",
+        "book_autor": "Бурнаева, Леора",
+        "new_price": 1352,
+        "old_price": 1352,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Парадигма программирования. Учебное пособие",
+        "book_autor": "Городняя Лидия Васильевна",
+        "new_price": 2628,
+        "old_price": 2628,
+        "book_sale": 0
+    },
+    {
+        "book_title": "ASP.NET Core 3 с примерами на C# для профессионалов",
+        "book_autor": "Фримен Адам",
+        "new_price": 5914,
+        "old_price": 10752,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Создаем динамические веб-сайты на PHP",
+        "book_autor": "Татро, Макинтайр",
+        "new_price": 2325,
+        "old_price": 2981,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Теория вероятностей и математическая статистика в среде MATLAB. Учебное пособие",
+        "book_autor": "Алибеков Игорь Юсупович",
+        "new_price": 2127,
+        "old_price": 2127,
+        "book_sale": 0
+    },
+    {
+        "book_title": "HTTP/2 в действии",
+        "book_autor": "Поллард Барри",
+        "new_price": 2456,
+        "old_price": 4466,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Методика моделирования динамики октокоптера",
+        "book_autor": "Щекатуров Александр Михайлович",
+        "new_price": 1536,
+        "old_price": 2793,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Байесовская статистика. Star Wars, LEGO, резиновые уточки и многое другое",
+        "book_autor": "Курт Уилл",
+        "new_price": 2793,
+        "old_price": 3581,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Python. Лучшие практики и инструменты",
+        "book_autor": "Яворски, Зиаде",
+        "new_price": 2793,
+        "old_price": 3581,
+        "book_sale": 22
+    },
+    {
+        "book_title": "C# 9.0. Карманный справочник",
+        "book_autor": "Албахари, Албахари",
+        "new_price": 1478,
+        "old_price": 2688,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Обработка естественного языка. Python и spaCy на практике",
+        "book_autor": "Васильев Юрий",
+        "new_price": 1554,
+        "old_price": 1992,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Python для финансовых расчетов",
+        "book_autor": "Хилпиш Ив",
+        "new_price": 7392,
+        "old_price": 13440,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Разработка и анализ компьютерных алгоритмов",
+        "book_autor": "Ахо, Ульман, Хопкрофт",
+        "new_price": 2268,
+        "old_price": 4123,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Научное программирование на Python",
+        "book_autor": "Хилл Кристиан",
+        "new_price": 2456,
+        "old_price": 4466,
+        "book_sale": 45
+    },
+    {
+        "book_title": "C#. Алгоритмы и структуры данных (+CD). СПО",
+        "book_autor": "Тюкачев, Хлебостроев",
+        "new_price": 3347,
+        "old_price": 3347,
+        "book_sale": 0
+    },
+    {
+        "book_title": "C#. Программирование 2D и 3D векторной графики +CD. СПО",
+        "book_autor": "Тюкачев, Хлебостроев",
+        "new_price": 2957,
+        "old_price": 2957,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Алгоритмизация и программирование. Практикум. СПО",
+        "book_autor": "Андрианова Анастасия Александровна",
+        "new_price": 2320,
+        "old_price": 2320,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Организация беспроводных Ad Hoc и Hot Spot сетей в среде ОС Windows",
+        "book_autor": "Заяц, Хабаров",
+        "new_price": 2338,
+        "old_price": 2338,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Построение распределенных систем на базе WebSocket. Учебное пособие",
+        "book_autor": "Хабаров, Шилкина",
+        "new_price": 2202,
+        "old_price": 2202,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Практическое введение в язык программирования Си. СПО",
+        "book_autor": "Солдатенко, Попов",
+        "new_price": 1492,
+        "old_price": 1492,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Проектирование и разработка WEB-приложений. Введение в frontend и backend разработку. СПО",
+        "book_autor": "Заяц, Васильев",
+        "new_price": 1921,
+        "old_price": 1921,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Простой Python для опытных программистов",
+        "book_autor": "Гаско Рик",
+        "new_price": 845,
+        "old_price": 1537,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Профессиональная разработка на Python",
+        "book_autor": "Уилкс Мэттью",
+        "new_price": 2918,
+        "old_price": 5306,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Программируй & типизируй",
+        "book_autor": "Ришкуция Влад",
+        "new_price": 2240,
+        "old_price": 2872,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Основы Python. Научитесь мыслить как программист",
+        "book_autor": "Дауни Аллен Б.",
+        "new_price": 1461,
+        "old_price": 2001,
+        "book_sale": 27
+    },
+    {
+        "book_title": "SimInTech. Преобразователи автономных источников электроэнергии",
+        "book_autor": "Калачёв, Александров",
+        "new_price": 1151,
+        "old_price": 2093,
+        "book_sale": 45
+    },
+    {
+        "book_title": "JavaScript. Готовые программы. Учебное пособие",
+        "book_autor": "Янцев Валерий Викторович",
+        "new_price": 1966,
+        "old_price": 1966,
+        "book_sale": 0
+    },
+    {
+        "book_title": "JavaScript. Готовые программы. СПО",
+        "book_autor": "Янцев Валерий Викторович",
+        "new_price": 2025,
+        "old_price": 2025,
+        "book_sale": 0
+    },
+    {
+        "book_title": "TypeScript быстро",
+        "book_autor": "Файн, Моисеев",
+        "new_price": 2495,
+        "old_price": 3199,
+        "book_sale": 22
+    },
+    {
+        "book_title": "C# 8 и .NET Core. Разработка и оптимизация",
+        "book_autor": "Прайс Марк Дж.",
+        "new_price": 3457,
+        "old_price": 4432,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Разработка базы данных в Access. Учебное пособие",
+        "book_autor": "Волик Мария Владимировна",
+        "new_price": 370,
+        "old_price": 672,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Основы программирования на языке С. Учебное пособие",
+        "book_autor": "Гагарина, Дорогова",
+        "new_price": 1848,
+        "old_price": 3360,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Python. Быстрый старт",
+        "book_autor": "Чан Джейми",
+        "new_price": 1077,
+        "old_price": 1381,
+        "book_sale": 22
+    },
+    {
+        "book_title": "C++ для профи",
+        "book_autor": "Лоспинозо Джош",
+        "new_price": 3261,
+        "old_price": 4181,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Интеллектуальные информационные системы и методы искусственного интеллекта. Учебник",
+        "book_autor": "Андрейчиков, Андрейчикова",
+        "new_price": 3519,
+        "old_price": 6398,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Инструментальные средства разработки программного обеспечения Системы Fossil",
+        "book_autor": "Орещенков Игорь Сергеевич",
+        "new_price": 3108,
+        "old_price": 3108,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Эффективный Java. Тюнинг кода на Java 8, 11 и дальше",
+        "book_autor": "Оукс Скотт",
+        "new_price": 3244,
+        "old_price": 4159,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Python. Сборник упражнений",
+        "book_autor": "Стивенсон Бен",
+        "new_price": 1074,
+        "old_price": 1953,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Совершенный алгоритм. Алгоритмы для NP-трудных задач",
+        "book_autor": "Рафгарден Тим",
+        "new_price": 1888,
+        "old_price": 2421,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Стильный Java. Код, который работает всегда и везде",
+        "book_autor": "Фаэлла Марко",
+        "new_price": 2430,
+        "old_price": 3116,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Внедрение зависимостей на платформе .NET",
+        "book_autor": "Симан, Дерсен",
+        "new_price": 3244,
+        "old_price": 4159,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Карьера программиста",
+        "book_autor": "Лакман Макдауэлл Гейл",
+        "new_price": 2127,
+        "old_price": 2727,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Глубокое обучение. Легкая разработка проектов на Python",
+        "book_autor": "Вейдман Сет",
+        "new_price": 2901,
+        "old_price": 3719,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Паттерны проектирования для C# и платформы .NET Core",
+        "book_autor": "Арораа, Чилберто",
+        "new_price": 3347,
+        "old_price": 4291,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Структуры и алгоритмы обработки данных. Учебник для СПО",
+        "book_autor": "Павлов, Первова",
+        "new_price": 1804,
+        "old_price": 1804,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Численные методы и программирование. Учебное пособие для СПО",
+        "book_autor": "Слабнов Виктор Дмитриевич",
+        "new_price": 5063,
+        "old_price": 5063,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Технология разработки программного обеспечения. Учебное пособие для СПО",
+        "book_autor": "Зубкова Татьяна Михайловна",
+        "new_price": 3440,
+        "old_price": 3440,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Изучаем C++ через программирование игр",
+        "book_autor": "Доусон Майкл",
+        "new_price": 1417,
+        "old_price": 1817,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Совершенный софт. Совершенный софт - совершенная карьера",
+        "book_autor": "Леве Джувел",
+        "new_price": 2214,
+        "old_price": 2839,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Spark в действии. С примерами Java, Python и Scala",
+        "book_autor": "Перрен Жан-Жорж",
+        "new_price": 3071,
+        "old_price": 5583,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Изучаем Power Query. Наглядный подход к подключению и преобразованию данных из множества источников",
+        "book_autor": "Фоукс, Спарроу",
+        "new_price": 1536,
+        "old_price": 2793,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Секреты Python Pro",
+        "book_autor": "Хиллард Дейн",
+        "new_price": 2386,
+        "old_price": 3059,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Программирование на Python в примерах и задачах",
+        "book_autor": "Васильев Алексей Николаевич",
+        "new_price": 1165,
+        "old_price": 1596,
+        "book_sale": 27
+    },
+    {
+        "book_title": "Моделирование и оптимизация процессов управления в технологических системах. Учебник",
+        "book_autor": "Колтунов, Крыжановская",
+        "new_price": 1005,
+        "old_price": 1828,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Квантовые вычисления. Прикладной подход",
+        "book_autor": "Хидари Джек Д.",
+        "new_price": 1536,
+        "old_price": 2793,
+        "book_sale": 45
+    },
+    {
+        "book_title": "JavaScript. Полное руководство",
+        "book_autor": "Флэнаган Дэвид",
+        "new_price": 4436,
+        "old_price": 8066,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Проектирование информационных систем. Методы и средства структурно-функционального проектирования",
+        "book_autor": "Гвоздева, Баллод",
+        "new_price": 1640,
+        "old_price": 1640,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Структуры дан.в C#.Лин.и нелин.динамич.структ.СПО",
+        "book_autor": "Симонова Елена Витальевна",
+        "new_price": 1749,
+        "old_price": 1749,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Проектирование информационных систем. Стандартизация, техническое документирование информ. систем",
+        "book_autor": "Гвоздева, Баллод",
+        "new_price": 2154,
+        "old_price": 2154,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Системы отображения информации. Дискретные индикаторы. Учебник для вузов",
+        "book_autor": "Смирнов Виктор Михайлович",
+        "new_price": 3347,
+        "old_price": 3347,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Инфокоммуникационные системы. Протоколы,интерфейсы. Практикум. СПО",
+        "book_autor": "Журавлев Антон Евгеньевич",
+        "new_price": 2816,
+        "old_price": 2816,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Нечеткое моделирование и управление в технических системах. Учебное пособие для вузов",
+        "book_autor": "Кудинов, Пащенко, Пащенко",
+        "new_price": 3041,
+        "old_price": 3041,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Мультимедийные технологии. Учебник для СПО",
+        "book_autor": "Катунин Геннадий Павлович",
+        "new_price": 4589,
+        "old_price": 4589,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Swift. Основы разработки приложений под iOS, iPadOS и macOS",
+        "book_autor": "Усов Василий",
+        "new_price": 1974,
+        "old_price": 2531,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Система модулей Java",
+        "book_autor": "Парлог Николай",
+        "new_price": 2558,
+        "old_price": 3279,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Игровой движок. Программирование и внутреннее устройство",
+        "book_autor": "Грегори Джейсон",
+        "new_price": 5460,
+        "old_price": 7000,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Принципы юнит-тестирования",
+        "book_autor": "Хориков Владимир",
+        "new_price": 1413,
+        "old_price": 1811,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Простой Python. Современный стиль программирования",
+        "book_autor": "Любанович Билл",
+        "new_price": 2043,
+        "old_price": 2619,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Kotlin. Сборник рецептов. Предметный подход",
+        "book_autor": "Коузен Кен",
+        "new_price": 1536,
+        "old_price": 2793,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Олимпиадное программирование",
+        "book_autor": "Лааксонен Антти",
+        "new_price": 1612,
+        "old_price": 2930,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Алгоритмы и структуры данных. Учебное пособие",
+        "book_autor": "Мясникова Нелли Александровна",
+        "new_price": 1118,
+        "old_price": 2032,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Компьютерная арифметика. Учебное пособие. СПО (+CD)",
+        "book_autor": "Иорданский Михаил Анатольевич",
+        "new_price": 1525,
+        "old_price": 1525,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Программирование. Практикум. Учебное пособие",
+        "book_autor": "Быкадорова Елена Анатольевна",
+        "new_price": 708,
+        "old_price": 708,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Системное программное обеспечение информационных мультимедиасистем. Учебное пособие",
+        "book_autor": "Иванько, Иванько",
+        "new_price": 980,
+        "old_price": 980,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Распределенные системы",
+        "book_autor": "Таненбаум, Стин",
+        "new_price": 2918,
+        "old_price": 5306,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Алгебра и геометрия с примерами на Python. Учебное пособие",
+        "book_autor": "Борзунов, Кургалин",
+        "new_price": 5873,
+        "old_price": 5873,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Организация и архитектура ЭВМ. Вычислительные системы. Учебное пособие",
+        "book_autor": "Журавлев Антон Евгеньевич",
+        "new_price": 1857,
+        "old_price": 1857,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Корпоративные информационные системы. Администрирование сетевого домена. Учебное пособие",
+        "book_autor": "Журавлев, Макшанов, Тындыкарь",
+        "new_price": 2408,
+        "old_price": 2408,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Введение в программирование на языке Visual Basic for Applications (VBA). Учебное пособие",
+        "book_autor": "Гуриков Сергей Ростиславович",
+        "new_price": 1937,
+        "old_price": 3522,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Hello World! Программирование для детей и взрослых",
+        "book_autor": "Сэнд, Сэнд",
+        "new_price": 1688,
+        "old_price": 3069,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Методология создания информационных систем. Учебное пособие",
+        "book_autor": "Карминский, Черников",
+        "new_price": 1701,
+        "old_price": 3092,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Разработка бизнес-приложений на платформе \"1С: Предприятие\". Учебное пособие",
+        "book_autor": "Дадян Эдуард Григорьевич",
+        "new_price": 1730,
+        "old_price": 3145,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Проектирование информационных систем. Учебное пособие. СПО",
+        "book_autor": "Вейцман Владимир Моисеевич",
+        "new_price": 3190,
+        "old_price": 3190,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Создание сайтов на основе WordPress. Учебное пособие для СПО",
+        "book_autor": "Сергеев Алексей Николаевич",
+        "new_price": 1255,
+        "old_price": 1255,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Интеграция управления программой и системной инженерии. Методы, инструменты и организационные систем",
+        "book_autor": "Мицуфуджи, Хардинг, Мозер",
+        "new_price": 2303,
+        "old_price": 4187,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Современный JavaScript для нетерпеливых",
+        "book_autor": "Хорстман Кэй С.",
+        "new_price": 1688,
+        "old_price": 3069,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Инфокоммуникационные системы. Учебник",
+        "book_autor": "Журавлев, Макшанов",
+        "new_price": 4220,
+        "old_price": 4220,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Инфокоммуникационные системы. Учебник",
+        "book_autor": "Журавлев, Макшанов, Иванищев",
+        "new_price": 4093,
+        "old_price": 4093,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Программирование на Rust. Официальный гайд",
+        "book_autor": "Клабник, Николс",
+        "new_price": 3416,
+        "old_price": 4379,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Проектирование информационных систем. Учебное пособие",
+        "book_autor": "Коваленко Владимир Васильевич",
+        "new_price": 2380,
+        "old_price": 4328,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Профессиональный TypeScript. Разработка масштабируемых JavaScript-приложений",
+        "book_autor": "Черный Борис",
+        "new_price": 1700,
+        "old_price": 2179,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Подробное руководство по DAX: бизнес-аналитика с Microsoft Power Bl, SQL Server Analysis Services",
+        "book_autor": "Феррари, Руссо",
+        "new_price": 3148,
+        "old_price": 5723,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Хаос-инжиниринг",
+        "book_autor": "Розенталь, Джонс",
+        "new_price": 1536,
+        "old_price": 2793,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Цифровая обработка сигналов на системном уровне с использованием LabVIEW",
+        "book_autor": "Кехтарнаваз, Ким",
+        "new_price": 1382,
+        "old_price": 2513,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Основы программирования. Учебник с практикумом",
+        "book_autor": "Макарова, Нилова, Зеленина",
+        "new_price": 1454,
+        "old_price": 2644,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Базы данных. Учебник",
+        "book_autor": "Кумскова Ирина Александровна",
+        "new_price": 1230,
+        "old_price": 2237,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Спортивное программирование. Новый нижний предел соревнований по программированию",
+        "book_autor": "Халим, Халим",
+        "new_price": 2456,
+        "old_price": 4466,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Python и наука о данных для чайников",
+        "book_autor": "Мюллер, Массарон",
+        "new_price": 2268,
+        "old_price": 4123,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Криптография - наука о тайнописи. Учебное пособие",
+        "book_autor": "Фомичев Владимир Михайлович",
+        "new_price": 370,
+        "old_price": 672,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Искусство тестирования программ",
+        "book_autor": "Сандлер, Майерс, Баджетт",
+        "new_price": 2958,
+        "old_price": 5378,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Прикладное программирование. Учебное пособие",
+        "book_autor": "Никифоров Сергей Николаевич",
+        "new_price": 1071,
+        "old_price": 1071,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Python для программирования криптовалют",
+        "book_autor": "Сонг Джимми",
+        "new_price": 3746,
+        "old_price": 6810,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Алгоритмы оптимизации",
+        "book_autor": "Кохендерфер, Уилер",
+        "new_price": 4436,
+        "old_price": 8066,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Мифический человеко-месяц, или Как создаются программные системы",
+        "book_autor": "Брукс Фредерик",
+        "new_price": 1710,
+        "old_price": 2192,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Разработка приложений на С++ с использованием Boost. Рецепты, упрощающие разработку вашего приложени",
+        "book_autor": "Полухин Антон",
+        "new_price": 1842,
+        "old_price": 3349,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Введение в язык Pascal. Учебное пособие",
+        "book_autor": "Абрамов, Трифонов, Трифонова",
+        "new_price": 1118,
+        "old_price": 2032,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Разработка и реализац.портальн.решений: Практикум",
+        "book_autor": "Лукьянов, Маркова",
+        "new_price": 592,
+        "old_price": 1076,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Транспортная логистика (линейное программирование). Учебное пособие",
+        "book_autor": "Пашков Николай Николаевич",
+        "new_price": 592,
+        "old_price": 1076,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Генетические алгоритмы на Python",
+        "book_autor": "Вирсански Эйял",
+        "new_price": 1995,
+        "old_price": 3628,
+        "book_sale": 45
+    },
+    {
+        "book_title": "C#. Основы программирования. Учебное пособие",
+        "book_autor": "Тюкачев, Хлебостроев",
+        "new_price": 3404,
+        "old_price": 3404,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Golang для профи. Работа с сетью, многопоточность, структуры данных и машинное обучение с Go",
+        "book_autor": "Цукалос Михалис",
+        "new_price": 4427,
+        "old_price": 5676,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Эффективный TypeScript. 62 способа улучшить код",
+        "book_autor": "Вандеркам Дэн",
+        "new_price": 1715,
+        "old_price": 2199,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Istio. Приступаем к работе",
+        "book_autor": "Калькот, Бутчер",
+        "new_price": 1536,
+        "old_price": 2793,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Проектирование веб-API",
+        "book_autor": "Лоре Арно",
+        "new_price": 1842,
+        "old_price": 3349,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Глубокое обучение с подкреплением. AlphaGo и другие технологии",
+        "book_autor": "Лапань Максим",
+        "new_price": 2694,
+        "old_price": 3454,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Spring Boot 2. Лучшие практики для профессионалов",
+        "book_autor": "Гутьеррес Фелипе",
+        "new_price": 2722,
+        "old_price": 3490,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Эволюционные нейросети на языке Python",
+        "book_autor": "Омельяненко Ярослав",
+        "new_price": 1842,
+        "old_price": 3349,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Алгоритмы обучения с подкреплением на Python",
+        "book_autor": "Лонца Андреа",
+        "new_price": 1842,
+        "old_price": 3349,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Цифровой синтез. Практический курс",
+        "book_autor": "Романов, Антонов, Панчул",
+        "new_price": 2149,
+        "old_price": 3908,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Системное программирование. Лабораторные работы. Учебное пособие",
+        "book_autor": "Жулабова Фатима Тахировна",
+        "new_price": 1592,
+        "old_price": 1592,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Программист-прагматик",
+        "book_autor": "Томас, Хант",
+        "new_price": 2958,
+        "old_price": 5378,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Параллельное программирование на C++ с помощью библиотеки TBB",
+        "book_autor": "Восс, Асенхо, Рейндерс",
+        "new_price": 3071,
+        "old_price": 5583,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Предметно-ориентированное проектирование в Enterprise Java",
+        "book_autor": "Наир Виджей",
+        "new_price": 1995,
+        "old_price": 3628,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Анализ данных при помощи Microsoft Power BI и Power Pivot для Excel",
+        "book_autor": "Феррари, Руссо",
+        "new_price": 1612,
+        "old_price": 2930,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Распределенные системы реального времени. Теория и практика",
+        "book_autor": "Эрджиес Кайхан",
+        "new_price": 1842,
+        "old_price": 3349,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Нативная разработка мобильных приложений. Перекрестный справочник для iOS и Android",
+        "book_autor": "Льюис, Данн",
+        "new_price": 1536,
+        "old_price": 2793,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Паттерны объектно-ориентированного проектирования",
+        "book_autor": "Гамма, Хелм, Джонсон",
+        "new_price": 1072,
+        "old_price": 1374,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Применение пакета Matlab и Simulink для анализа электрических цепей. Том 1. Практикум",
+        "book_autor": "Фриск, Ганин, Степанова",
+        "new_price": 1075,
+        "old_price": 1955,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Управление памятью в .NET для профессионалов",
+        "book_autor": "Кокоса Конрад",
+        "new_price": 3148,
+        "old_price": 5723,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Исследование операций и методы оптимизации. Учебное пособие",
+        "book_autor": "Болотский, Кочеткова",
+        "new_price": 722,
+        "old_price": 722,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Веб-компоненты в действии",
+        "book_autor": "Фаррелл Бен",
+        "new_price": 1688,
+        "old_price": 3069,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Машинное обучение на R: экспертные техники для прогностического анализа",
+        "book_autor": "Ланц Бретт",
+        "new_price": 2910,
+        "old_price": 3731,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Глубокое обучение. Погружение в мир нейронных сетей",
+        "book_autor": "Николенко, Кадурин, Архангельская",
+        "new_price": 1554,
+        "old_price": 1992,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Архитектура компьютерных систем. Курс лекций. Учебное пособие",
+        "book_autor": "Белугина Светлана Викторовна",
+        "new_price": 1529,
+        "old_price": 1529,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Разработка программных модулей программного обеспечения для компьютерных систем",
+        "book_autor": "Белугина Светлана Викторовна",
+        "new_price": 2834,
+        "old_price": 2834,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Основы программирования информационного контента. Учебное пособие",
+        "book_autor": "Быкадорова, Синявская",
+        "new_price": 919,
+        "old_price": 919,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Численные методы. Учебник",
+        "book_autor": "Слабнов Виктор Дмитриевич",
+        "new_price": 5589,
+        "old_price": 5589,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Введение в глубокое обучение",
+        "book_autor": "Черняк Евгений",
+        "new_price": 1184,
+        "old_price": 2152,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Легкий способ выучить Python 3 еще глубже",
+        "book_autor": "Шоу Зед А.",
+        "new_price": 880,
+        "old_price": 1206,
+        "book_sale": 27
+    },
+    {
+        "book_title": "Практикум по численным методам в вычислительных средах matlab и mathcad. Учебное пособие",
+        "book_autor": "Бастрон, Охапкина",
+        "new_price": 453,
+        "old_price": 823,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Программирование на языке Пролог для задач искусственного интеллекта. Введение в логическое программ",
+        "book_autor": "Ефимова Елена Анатольевна",
+        "new_price": 554,
+        "old_price": 1008,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Информационные системы и программирование. Специалист по информационным системам. Выпускная квалифик",
+        "book_autor": "Логачев Максим Сергеевич",
+        "new_price": 3231,
+        "old_price": 5874,
+        "book_sale": 45
+    },
+    {
+        "book_title": "SCALA для нетерпеливых",
+        "book_autor": "Хостманн Кей",
+        "new_price": 1382,
+        "old_price": 2513,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Обучение с подкреплением",
+        "book_autor": "Саттон, Барто",
+        "new_price": 3071,
+        "old_price": 5583,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Рекомендательные системы на практике",
+        "book_autor": "Фальк Ким",
+        "new_price": 1536,
+        "old_price": 2793,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Flutter на практике. Прокачиваем навыки мобильной разработки с помощью открыт. фреймворка от Googlе",
+        "book_autor": "Заметти Франк",
+        "new_price": 1995,
+        "old_price": 3628,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Java Concurrency на практике",
+        "book_autor": "Гетц, Блох, Пайерлс",
+        "new_price": 1841,
+        "old_price": 2360,
+        "book_sale": 22
+    },
+    {
+        "book_title": "C# 8.0. Карманный справочник",
+        "book_autor": "Албахари, Албахари",
+        "new_price": 1184,
+        "old_price": 2152,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Нейронные сети и глубокое обучение. Учебный курс",
+        "book_autor": "Аггарвал Чару",
+        "new_price": 4436,
+        "old_price": 8066,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Разработка веб-приложений с помощью Node.js, MongoDB и Angular. Исчерпывающее руководство",
+        "book_autor": "Дейли, Дейли, Дейли",
+        "new_price": 3746,
+        "old_price": 6810,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Разработка игр на Unity 2018 за 24 часа",
+        "book_autor": "Гейг Майк",
+        "new_price": 1772,
+        "old_price": 2427,
+        "book_sale": 27
+    },
+    {
+        "book_title": "R. Книга рецептов. Проверенные рецепты для статистики, анализа и визуализации",
+        "book_autor": "Лонг, Титор",
+        "new_price": 2456,
+        "old_price": 4466,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Графовые алгоритмы. Практическая реализация на платформах  Apache Spark и Neo4j",
+        "book_autor": "Нидхем, Ходлер",
+        "new_price": 1688,
+        "old_price": 3069,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Функциональное программирование на С++. Как сделать свои программы изящными с помощью технологии фун",
+        "book_autor": "Чукич Иван",
+        "new_price": 1995,
+        "old_price": 3628,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Теория автоматического управления (с использованием MATLAB-SIMULINK). Практикум. Учебное пособие",
+        "book_autor": "Пащенко, Кудинов, Келина",
+        "new_price": 2404,
+        "old_price": 2404,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Python. Непрерывная интеграция и доставка",
+        "book_autor": "Ленц Мориц",
+        "new_price": 845,
+        "old_price": 1536,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Программирование GPU при помощи Python и CUDA. Исследуйте высокопроизводительные параллельные вычисл",
+        "book_autor": "Тоуманнен Бриан",
+        "new_price": 1382,
+        "old_price": 2513,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Изучаем Python. Программирование игр, визуализация данных, веб-приложения",
+        "book_autor": "Мэтиз Эрик",
+        "new_price": 1667,
+        "old_price": 2137,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Изучаем Python. Том 2",
+        "book_autor": "Лутц Марк",
+        "new_price": 3746,
+        "old_price": 6810,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Волшебство Kotlin",
+        "book_autor": "Симон Пьер-Ив",
+        "new_price": 1995,
+        "old_price": 3628,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Методы и алгоритмы решения прикладных задач дискретной оптимизации. Учебное пособие",
+        "book_autor": "Карпов, Струченков",
+        "new_price": 615,
+        "old_price": 1118,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Обработка естественного языка с TensorFlow",
+        "book_autor": "Ганегедара Тушан",
+        "new_price": 1842,
+        "old_price": 3349,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Информационные системы и программирование. Администратор баз данных. Учебник",
+        "book_autor": "Логачев Максим Сергеевич",
+        "new_price": 2395,
+        "old_price": 4355,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Программное обеспечение компьютерных сетей. Учебное пособие",
+        "book_autor": "Исаченко Олег Вячеславович",
+        "new_price": 976,
+        "old_price": 1775,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Моделирование химико-технологических процессов. Принципы применения пакетов компютерн. математики",
+        "book_autor": "Гартман, Клушин",
+        "new_price": 4272,
+        "old_price": 4272,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Клиентские технологии веб-программирования: JavaScript и DOM",
+        "book_autor": "Диков Андрей Валентинович",
+        "new_price": 1769,
+        "old_price": 1769,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Основы глубокого обучения. Создание алгоритмов для искусственного интеллекта следующего поколения",
+        "book_autor": "Будума Нихиль",
+        "new_price": 1904,
+        "old_price": 2608,
+        "book_sale": 27
+    },
+    {
+        "book_title": "Алгоритмы. Вводный курс",
+        "book_autor": "Кормен Томас",
+        "new_price": 1478,
+        "old_price": 2688,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Программирование встроенных систем на С++ 17. Создание универсальных и надежных встроенных решений",
+        "book_autor": "Пошевай Майа",
+        "new_price": 1842,
+        "old_price": 3349,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Глубокое обучение для поисковых систем",
+        "book_autor": "Теофили Томмазо",
+        "new_price": 1536,
+        "old_price": 2793,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Введение в программирование на языке Visual Basic for Applications (VBA). Учебное пособие",
+        "book_autor": "Гуриков Сергей Ростиславович",
+        "new_price": 1922,
+        "old_price": 3495,
+        "book_sale": 45
+    },
+    {
+        "book_title": "HTML и CSS. Разработка и дизайн веб-сайтов",
+        "book_autor": "Дакетт Джон",
+        "new_price": 1818,
+        "old_price": 2491,
+        "book_sale": 27
+    },
+    {
+        "book_title": "Байесовский анализ на Python",
+        "book_autor": "Мартин Освальдо",
+        "new_price": 1842,
+        "old_price": 3349,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Состязательные сети. Проекты",
+        "book_autor": "Ахирвар Кайлаш",
+        "new_price": 1382,
+        "old_price": 2513,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Основы программирования на языке С. Учебное пособие",
+        "book_autor": "Дорогов, Дорогова",
+        "new_price": 1486,
+        "old_price": 2702,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Программирование на языке Си. Учебное пособие",
+        "book_autor": "Кузин, Чумакова",
+        "new_price": 1316,
+        "old_price": 2393,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Разработка мобильных приложений на C# для iOS и Android",
+        "book_autor": "Черников Вячеслав",
+        "new_price": 1228,
+        "old_price": 2233,
+        "book_sale": 45
+    },
+    {
+        "book_title": "C. Полное руководство. Классическое издание",
+        "book_autor": "Шилдт Герберт",
+        "new_price": 4436,
+        "old_price": 8066,
+        "book_sale": 45
+    },
+    {
+        "book_title": "NGINX. Книга рецептов. Продвинутые рецепты высокопроизводительной   балансировки нагрузки",
+        "book_autor": "Де Йонге Дерек",
+        "new_price": 1228,
+        "old_price": 2233,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Как стать хакером",
+        "book_autor": "Притяну Эдриан",
+        "new_price": 1536,
+        "old_price": 2793,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Шаблоны проектирования для облачной среды",
+        "book_autor": "Дэвис Корнелия",
+        "new_price": 1995,
+        "old_price": 3628,
+        "book_sale": 45
+    },
+    {
+        "book_title": "SQL для чайников",
+        "book_autor": "Тейлор Аллен Дж.",
+        "new_price": 1775,
+        "old_price": 3227,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Введение в архитектуру программного обеспечения. Учебное пособие",
+        "book_autor": "Гагарина, Федоров, Федоров",
+        "new_price": 2174,
+        "old_price": 3952,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Глубокое обучение и игра в го",
+        "book_autor": "Памперла, Фергюсон",
+        "new_price": 1995,
+        "old_price": 3628,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Основы объектно-ориентированного программирования на базе языка С#. Учебное пособие",
+        "book_autor": "Залогова Любовь Алексеевна",
+        "new_price": 1474,
+        "old_price": 1474,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Квантовые вычисления для настоящих айтишников",
+        "book_autor": "Бернхард Крис",
+        "new_price": 1217,
+        "old_price": 1560,
+        "book_sale": 22
+    },
+    {
+        "book_title": "1400 задач по программированию",
+        "book_autor": "Златопольский Дмитрий Михайлович",
+        "new_price": 613,
+        "old_price": 1115,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Бессерверные приложения на JavaScipt",
+        "book_autor": "Стоянович, Симович",
+        "new_price": 1765,
+        "old_price": 3209,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Head First. Kotlin",
+        "book_autor": "Гриффитс, Гриффитс",
+        "new_price": 3120,
+        "old_price": 4000,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Программирование в среде Delphi. Создание проектов. Учебное пособие",
+        "book_autor": "Саблукова Наталья Геннадьевна",
+        "new_price": 459,
+        "old_price": 459,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Программирование в среде Delphi. Основные команды. Первые проекты",
+        "book_autor": "Саблукова Наталья Геннадьевна",
+        "new_price": 744,
+        "old_price": 744,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Основы алгоритмизации и программирования на языке Microsoft Visual Basic. Учебное пособие",
+        "book_autor": "Гуриков Сергей Ростиславович",
+        "new_price": 3105,
+        "old_price": 5645,
+        "book_sale": 45
+    },
+    {
+        "book_title": "MATLAB 6.5 SP1/7/7 SP1/7 SP2 + Simulink 5/6. Инструменты искусственного интеллекта и биоинформатики",
+        "book_autor": "Дьяконов, Круглов",
+        "new_price": 1367,
+        "old_price": 2486,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Компьютерный анализ и моделирование электрических цепей переменного тока в среде MATLAB",
+        "book_autor": "-",
+        "new_price": 282,
+        "old_price": 513,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Компьютерный анализ и моделирование электрических цепей переменного тока в среде MATLAB",
+        "book_autor": "-",
+        "new_price": 410,
+        "old_price": 745,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Компьютерный анализ и моделирование электрических цепей постоянного тока в среде MATLAB",
+        "book_autor": "-",
+        "new_price": 179,
+        "old_price": 326,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Компьютерный анализ и моделирование электрических цепей постоянного тока в среде MATLAB",
+        "book_autor": "-",
+        "new_price": 410,
+        "old_price": 745,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Компьютерный анализ четырехполюсников с помощью MATLAB",
+        "book_autor": "-",
+        "new_price": 589,
+        "old_price": 1070,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Компьютерный анализ четырехполюсников с помощью MATLAB",
+        "book_autor": "-",
+        "new_price": 245,
+        "old_price": 446,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Компьютерный спектральный анализ сигналов с помощью MATLAB",
+        "book_autor": "-",
+        "new_price": 470,
+        "old_price": 854,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Компьютерный спектральный анализ сигналов с помощью MATLAB",
+        "book_autor": "-",
+        "new_price": 230,
+        "old_price": 419,
+        "book_sale": 45
+    },
+    {
+        "book_title": "VHDL. Справочное пособие по основам языка",
+        "book_autor": "Бабак, Филоненко, Корченко",
+        "new_price": 767,
+        "old_price": 1395,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Глубокое обучение в биологии и медицине",
+        "book_autor": "Рамсундар, Истман, Уолтерс",
+        "new_price": 1074,
+        "old_price": 1953,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Современный язык Java. Лямбда-выражения, потоки и функциональное программирование",
+        "book_autor": "Урма, Фуско, Майкрофт",
+        "new_price": 2294,
+        "old_price": 2941,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Программирование на языке высокого уровня. Программирование на языке Object Pascal. Учебное пособие",
+        "book_autor": "Немцова, Голова, Абрамова",
+        "new_price": 2499,
+        "old_price": 4543,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Математическое программирование. Учебное пособие",
+        "book_autor": "Ржевский Сергей Владимирович",
+        "new_price": 3932,
+        "old_price": 3932,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Практика нейросетевого моделирования. Учебное пособие",
+        "book_autor": "Хливненко, Пятакович",
+        "new_price": 2579,
+        "old_price": 2579,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Python и анализ данных",
+        "book_autor": "Маккини Уэс",
+        "new_price": 2073,
+        "old_price": 3769,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Алгоритмы эволюционной оптимизации",
+        "book_autor": "Саймон Дэн",
+        "new_price": 3071,
+        "old_price": 5583,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Прикладные задачи оптимизации. Модели, методы, алгоритмы",
+        "book_autor": "Струченков Валерий Иванович",
+        "new_price": 663,
+        "old_price": 1206,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Машинный интеллект. Очерки по теории машинного обучения и искусственного интеллекта",
+        "book_autor": "Шумский Сергей Александрович",
+        "new_price": 2262,
+        "old_price": 4113,
+        "book_sale": 45
+    },
+    {
+        "book_title": "C#. Программирование 2D и 3D векторной графики (+CD)",
+        "book_autor": "Тюкачев, Хлебостроев",
+        "new_price": 3037,
+        "old_price": 3037,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Клиентские технологии веб-дизайна. HTML5 и CSS3. Учебное пособие",
+        "book_autor": "Диков Андрей Валентинович",
+        "new_price": 2077,
+        "old_price": 2077,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Технология разработки программного обеспечения. Учебное пособие",
+        "book_autor": "Зубкова Татьяна Михайловна",
+        "new_price": 3279,
+        "old_price": 3279,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Docker на практике",
+        "book_autor": "Миллан, Сейерс",
+        "new_price": 2456,
+        "old_price": 4466,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Swift подробно",
+        "book_autor": "Чейрд Инт Вейн",
+        "new_price": 2456,
+        "old_price": 4466,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Оптимизация программ на C++. Проверенные методы повышения производительности",
+        "book_autor": "Гантерот Курт",
+        "new_price": 2958,
+        "old_price": 5378,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Компьютерное моделирование полупроводниковых систем в MatLab 6.0. Учебное пособие",
+        "book_autor": "Герман-Галкин Сергей Германович",
+        "new_price": 309,
+        "old_price": 562,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Идиомы и паттерны проектирования в современном С++",
+        "book_autor": "Пикус Федор Г.",
+        "new_price": 1995,
+        "old_price": 3628,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Основы тестирования и верификации программного обеспечения",
+        "book_autor": "Старолетов Сергей Михайлович",
+        "new_price": 3606,
+        "old_price": 3606,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Изучаем Python. Том 1",
+        "book_autor": "Лутц Марк",
+        "new_price": 3746,
+        "old_price": 6810,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Рефакторинг кода на JavaScript. Улучшение проекта существующего кода",
+        "book_autor": "Фаулер Мартин",
+        "new_price": 4436,
+        "old_price": 8066,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Язык программирования Python: практикум. Учебное пособие",
+        "book_autor": "Жуков Роман Александрович",
+        "new_price": 1464,
+        "old_price": 2662,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Машинное обучение и безопасность. Защита систем с помощью данных и алгоритмов",
+        "book_autor": "Чио, Фримэн",
+        "new_price": 1612,
+        "old_price": 2930,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Разработка интеллектуальных систем. Введение в технологию машинного обучения",
+        "book_autor": "Хултен Джефф",
+        "new_price": 1382,
+        "old_price": 2513,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Теория вероятностей и математическая статистика в среде MATLAB. Учебное пособие",
+        "book_autor": "Алибеков Игорь Юсупович",
+        "new_price": 2008,
+        "old_price": 2008,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Экстремальное программирование. Разработка через тестирование",
+        "book_autor": "Бек Кент",
+        "new_price": 1206,
+        "old_price": 1546,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Объектно-ориентированное программирование с примерами на C#. Учебное пособие",
+        "book_autor": "Хорев Павел Борисович",
+        "new_price": 1737,
+        "old_price": 3159,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Применение пакета MATLAB для анализа резонансных явлений в электрических цепях. Учебно-мет. пособие",
+        "book_autor": "-",
+        "new_price": 282,
+        "old_price": 513,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Применение пакета MATLAB для анализа резонансных явлений в электрических цепях. Учебно-мет. пособие",
+        "book_autor": "-",
+        "new_price": 564,
+        "old_price": 1025,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Программирование. Сборник задач. Учебное пособие",
+        "book_autor": "Архипов, Батасова, Гречкина",
+        "new_price": 2889,
+        "old_price": 2889,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Python. Книга Рецептов",
+        "book_autor": "Бизли, Джонс",
+        "new_price": 2764,
+        "old_price": 5026,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Глубокое обучение с подкреплением на Python. OpenAI Gym и TensorFlow для профи",
+        "book_autor": "Равичандиран Судхарсан",
+        "new_price": 1483,
+        "old_price": 1901,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Грокаем глубокое обучение",
+        "book_autor": "Траск Эндрю",
+        "new_price": 1200,
+        "old_price": 1539,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Практика реактивного программирования в SPRING 5",
+        "book_autor": "Докука, Лозинский",
+        "new_price": 2610,
+        "old_price": 4746,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Нейросетевые методы в обработке естественного языка",
+        "book_autor": "Гольдберг Йоав",
+        "new_price": 2303,
+        "old_price": 4187,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Предиктивное моделирование на практике",
+        "book_autor": "Кун, Джонсон",
+        "new_price": 2731,
+        "old_price": 3501,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Микросервисы. Паттерны разработки и рефакторинга",
+        "book_autor": "Ричардсон Крис",
+        "new_price": 2128,
+        "old_price": 2728,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Системы счисления, алгоритмизация и программирование. Учебное пособие",
+        "book_autor": "Игнашева Елена Петровна",
+        "new_price": 1493,
+        "old_price": 2715,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Объектно-ориентированное программирование. Учебник",
+        "book_autor": "Барков Игорь Александрович",
+        "new_price": 6117,
+        "old_price": 6117,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Практическое введение в программную инженерию. Учебное пособие",
+        "book_autor": "Волк Владимир Константинович",
+        "new_price": 2778,
+        "old_price": 2778,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Проектирование цифровых устройств на ПЛИС. Учебное пособие",
+        "book_autor": "Ушенина Инна Владимировна",
+        "new_price": 2971,
+        "old_price": 2971,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Введение в технологии контейнеров и Kubernetes",
+        "book_autor": "Маркелов Андрей Александрович",
+        "new_price": 1228,
+        "old_price": 2233,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Логическое проектирование и верификация систем на SystemVerilog",
+        "book_autor": "Дональд Томас",
+        "new_price": 1995,
+        "old_price": 3628,
+        "book_sale": 45
+    },
+    {
+        "book_title": "HTML5 и CSS3 для чайников",
+        "book_autor": "Титтел, Минник",
+        "new_price": 1775,
+        "old_price": 3227,
+        "book_sale": 45
+    },
+    {
+        "book_title": "C# для чайников",
+        "book_autor": "Мюллер, Сфер, Семпф",
+        "new_price": 2268,
+        "old_price": 4123,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Изучаем TypeScript 3",
+        "book_autor": "Розенталс Натан",
+        "new_price": 2149,
+        "old_price": 3908,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Введение в веб-разработку на языке JavaScript. Учебное пособие",
+        "book_autor": "Государев Илья Борисович",
+        "new_price": 2240,
+        "old_price": 2240,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Программирование компьютерной графики",
+        "book_autor": "Боресков Алексей Викторович",
+        "new_price": 1612,
+        "old_price": 2930,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Высокопроизводительный код на платформе .NET",
+        "book_autor": "Уотсон Бен",
+        "new_price": 2158,
+        "old_price": 2767,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Совершенный алгоритм. Графовые алгоритмы и структуры данных",
+        "book_autor": "Рафгарден Тим",
+        "new_price": 1416,
+        "old_price": 1815,
+        "book_sale": 22
+    },
+    {
+        "book_title": "{Вы не знаете JS} Асинхронная обработка и оптимизация",
+        "book_autor": "Симпсон Кайл",
+        "new_price": 1323,
+        "old_price": 1696,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Основы теории вейвлетов. Вейвлеты в Matlab",
+        "book_autor": "Смоленцев Николай Константинович",
+        "new_price": 1536,
+        "old_price": 2793,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Изучаем React",
+        "book_autor": "Чиннатамби Кирупа",
+        "new_price": 1407,
+        "old_price": 1928,
+        "book_sale": 27
+    },
+    {
+        "book_title": "Python для чайников",
+        "book_autor": "Мюллер Джон Пол",
+        "new_price": 1775,
+        "old_price": 3227,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Изучение сложных систем с помощью Python",
+        "book_autor": "Дауни Аллен Б.",
+        "new_price": 1153,
+        "old_price": 2096,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Вероятностное программирование на Python. Байесовский вывод и алгоритмы",
+        "book_autor": "Дэвидсон-Пайлон Кэмерон",
+        "new_price": 1925,
+        "old_price": 2468,
+        "book_sale": 22
+    },
+    {
+        "book_title": "JavaScript для чайников",
+        "book_autor": "Минник, Холланд",
+        "new_price": 1478,
+        "old_price": 2688,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Легкий способ выучить Python 3",
+        "book_autor": "Шоу Зед А.",
+        "new_price": 880,
+        "old_price": 1206,
+        "book_sale": 27
+    },
+    {
+        "book_title": "Jenkins 2. Приступаем к работе. Создайте свой конвейер развертывания для автоматизации следующего п.",
+        "book_autor": "Ластер Брент",
+        "new_price": 2918,
+        "old_price": 5306,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Реактивное программирование на С++. Проектирование параллельных и асинхронных приложений с использов",
+        "book_autor": "Пай, Абрахам",
+        "new_price": 1382,
+        "old_price": 2513,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Изображение квантовых процессов. Начальный курс квантовой теории и рассуждений на диаграммах",
+        "book_autor": "Коке, Киссинждер",
+        "new_price": 3456,
+        "old_price": 6283,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Unreal Engine VR для разработчиков",
+        "book_autor": "Маккефри Митч",
+        "new_price": 1219,
+        "old_price": 1670,
+        "book_sale": 27
+    },
+    {
+        "book_title": "Язык программирования Python. Практикум. Учебное пособие",
+        "book_autor": "Жуков Роман Александрович",
+        "new_price": 1442,
+        "old_price": 2621,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Django 2 в примерах",
+        "book_autor": "Меле Антонио",
+        "new_price": 1995,
+        "old_price": 3628,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Глубокое обучение без математики. Том 1. Основы",
+        "book_autor": "Гласснер Эндрю",
+        "new_price": 2610,
+        "old_price": 4746,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Программирование и основы алгоритмизации.Теоретические основы и примеры реализации численных методов",
+        "book_autor": "Затонский, Бильфельд",
+        "new_price": 991,
+        "old_price": 1801,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Программное обеспечение компьютерных сетей и web-серверов. Учебное пособие",
+        "book_autor": "Лисьев, Романов, Аскерко",
+        "new_price": 964,
+        "old_price": 1753,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Технологии параллельного программирования. Учебное пособие",
+        "book_autor": "Лупин, Посыпкин",
+        "new_price": 1043,
+        "old_price": 1896,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Глубокое обучение и TensorFlow для профессионалов. Математический подход к построению систем",
+        "book_autor": "Паттанаяк Сантану",
+        "new_price": 2268,
+        "old_price": 4123,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Введение в анализ алгоритмов",
+        "book_autor": "Солтис Майкл",
+        "new_price": 1382,
+        "old_price": 2513,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Практикум по решению задач на ЭВМ в среде Delphi. Учебное пособие",
+        "book_autor": "Бунаков, Лопатин",
+        "new_price": 1878,
+        "old_price": 3414,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Анализ вредоносных программ",
+        "book_autor": "Монаппа К. А.",
+        "new_price": 2149,
+        "old_price": 3908,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Java. Библиотека профессионала. Том 1. Основы",
+        "book_autor": "Хорстманн Кей С.",
+        "new_price": 3746,
+        "old_price": 6810,
+        "book_sale": 45
+    },
+    {
+        "book_title": "JavaScript. Карманный справочник",
+        "book_autor": "Флэнаган Дэвид",
+        "new_price": 1085,
+        "old_price": 1972,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Искусство программирования. Том 3. Сортировка и поиск",
+        "book_autor": "Кнут Дональд Эрвин",
+        "new_price": 5224,
+        "old_price": 9498,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Применение UML 2.0 и шаблонов проектирования",
+        "book_autor": "Ларман Крэг",
+        "new_price": 5224,
+        "old_price": 9498,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Численные методы и программирование. Учебное пособие",
+        "book_autor": "Колдаев Виктор Дмитриевич",
+        "new_price": 2232,
+        "old_price": 4059,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Микросервисы и контейнеры Docker",
+        "book_autor": "Кочер Парминдер Сингх",
+        "new_price": 1536,
+        "old_price": 2793,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Биометрическая защита. Обзор технологии",
+        "book_autor": "Суомалайнен Антти",
+        "new_price": 229,
+        "old_price": 417,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Легкий способ выучить Java",
+        "book_autor": "Пейн Брайсон",
+        "new_price": 1062,
+        "old_price": 1455,
+        "book_sale": 27
+    },
+    {
+        "book_title": "Программирование в Erlang",
+        "book_autor": "Томпсон, Чезарини",
+        "new_price": 1536,
+        "old_price": 2793,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Искусство программирования. Том 2. Получисленные алгоритмы",
+        "book_autor": "Кнут Дональд Эрвин",
+        "new_price": 4436,
+        "old_price": 8066,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Искусственный интеллект для чайников",
+        "book_autor": "Мюллер, Массарон",
+        "new_price": 1478,
+        "old_price": 2688,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Современные технологии программирования. Разработка Windows-приложений на языке С#. Учебник. Том 2",
+        "book_autor": "Горелов Сергей Витальевич",
+        "new_price": 961,
+        "old_price": 1748,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Компьютерное зрение. Теория и алгоритмы",
+        "book_autor": "Клетте Рейнхард",
+        "new_price": 3225,
+        "old_price": 5863,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Java. Оптимизация программ. Практические методы повышения производительности приложений в JVM",
+        "book_autor": "Эванс, Гоф, Ньюланд",
+        "new_price": 3746,
+        "old_price": 6810,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Искусство программирования на R. Погружение в большие данные",
+        "book_autor": "Мэтлофф Норман",
+        "new_price": 1497,
+        "old_price": 1919,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Базовые средства программирования на Visual Basic в среде VisualStudio Net. Практикум. Учебное пособ",
+        "book_autor": "Шакин Виктор Николаевич",
+        "new_price": 1996,
+        "old_price": 3629,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Алгоритмизация и программирование. Практикум. Учебное пособие",
+        "book_autor": "Андрианова, Исмагилов, Мухтарова",
+        "new_price": 2382,
+        "old_price": 2382,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Структуры и алгоритмы обработки данных. Линейные структуры. Учебное пособие",
+        "book_autor": "Апанасевич Сергей Александрович",
+        "new_price": 1857,
+        "old_price": 1857,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Самоучитель игры на Паскале. ABC и немного Турбо",
+        "book_autor": "Комлев Николай Юрьевич",
+        "new_price": 814,
+        "old_price": 1480,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Создание веб-сайта для чайников",
+        "book_autor": "Кроудер Дэвид",
+        "new_price": 789,
+        "old_price": 1435,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Алгоритмические трюки для программистов",
+        "book_autor": "Уоррен Генри С.",
+        "new_price": 2958,
+        "old_price": 5378,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Unity и C#. Геймдев от идеи до реализации",
+        "book_autor": "Бонд Джереми Гибсон",
+        "new_price": 3226,
+        "old_price": 4136,
+        "book_sale": 22
+    },
+    {
+        "book_title": "PostgreSQL 11. Мастерство разработки",
+        "book_autor": "Шениг Ганс-Юрген",
+        "new_price": 2073,
+        "old_price": 3769,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Разработка АСУТП в среде WinCC. Учебное пособие",
+        "book_autor": "Иванов, Чье",
+        "new_price": 1442,
+        "old_price": 2621,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Автоматизация программируемых сетей",
+        "book_autor": "Эделман, Лоу, Осуолт",
+        "new_price": 2303,
+        "old_price": 4187,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Разработка бизнес-приложений на платформе \"1С:Предприятие\". Учебное пособие",
+        "book_autor": "Дадян Эдуард Григорьевич",
+        "new_price": 1671,
+        "old_price": 3038,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Базовые средства программирования на Visual Basic в среде VisualStudio .NET. Учебное пособие",
+        "book_autor": "Шакин Виктор Николаевич",
+        "new_price": 1878,
+        "old_price": 3414,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Прикладная обработка биомедицинских изображений в среде MATLAB. Учебное пособие",
+        "book_autor": "Федотов Александр Александрович",
+        "new_price": 919,
+        "old_price": 919,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Изучаем HTML, XHTML и CSS",
+        "book_autor": "Робсон, Фримен",
+        "new_price": 2745,
+        "old_price": 3519,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Изучаем pandas",
+        "book_autor": "Хейдт, Груздев",
+        "new_price": 2918,
+        "old_price": 5306,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Умные мобильные проекты с TensorFlow",
+        "book_autor": "Танг Джефф",
+        "new_price": 1536,
+        "old_price": 2793,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Алгоритмы на Java",
+        "book_autor": "Седжвик, Уэйн",
+        "new_price": 5914,
+        "old_price": 10752,
+        "book_sale": 45
+    },
+    {
+        "book_title": "C++. Полное руководство. Классическое издание",
+        "book_autor": "Шилдт Герберт",
+        "new_price": 4436,
+        "old_price": 8066,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Искусственный интеллект с примерами на Python. Создание приложений искусственного интеллекта",
+        "book_autor": "Джоши Пратик",
+        "new_price": 2958,
+        "old_price": 5378,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Основы машинного обучения для аналитического прогнозирования. Алгоритмы, рабочие примеры",
+        "book_autor": "Келлехер, Мак-Нейми, д`Арси",
+        "new_price": 3746,
+        "old_price": 6810,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Разработка SCADA-систем. Учебное пособие",
+        "book_autor": "Кангин, Кангин, Ямолдинов",
+        "new_price": 1582,
+        "old_price": 2877,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Язык и среда программирования R. Учебное пособие",
+        "book_autor": "Золотарюк Анатолий Васильевич",
+        "new_price": 917,
+        "old_price": 1667,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Прагматичный ИИ. Машинное обучение и облачные технологии",
+        "book_autor": "Гифт Ной",
+        "new_price": 1705,
+        "old_price": 2186,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Внедрение Splunk 7",
+        "book_autor": "Миллер Джеймс",
+        "new_price": 1995,
+        "old_price": 3628,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Java за 24 часа",
+        "book_autor": "Кейденхед Роджерс",
+        "new_price": 1478,
+        "old_price": 2688,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Совершенный алгоритм. Основы",
+        "book_autor": "Рафгарден Тим",
+        "new_price": 1349,
+        "old_price": 1730,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Машинное обучение и TensorFlow",
+        "book_autor": "Шакла Нишант",
+        "new_price": 1639,
+        "old_price": 2101,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Современные технологии программирования: разработка Windows-приложений на языке С#. Том 1",
+        "book_autor": "Горелов Сергей Витальевич",
+        "new_price": 813,
+        "old_price": 1479,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Mathematica 5/6/7. Полное руководство",
+        "book_autor": "Дьяконов Владимир Павлович",
+        "new_price": 1382,
+        "old_price": 2513,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Git для профессионального программиста",
+        "book_autor": "Чакон, Страуб",
+        "new_price": 1558,
+        "old_price": 1998,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Простой Python просто с нуля",
+        "book_autor": "Гаско Рик",
+        "new_price": 893,
+        "old_price": 1624,
+        "book_sale": 45
+    },
+    {
+        "book_title": "C++. Базовый курс",
+        "book_autor": "Шилдт Герберт",
+        "new_price": 2958,
+        "old_price": 5378,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Моделирование объектов управления в MatLab. Учебное пособие",
+        "book_autor": "Затонский, Тугашова",
+        "new_price": 1855,
+        "old_price": 1855,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Основы алгоритмизации и программирования (ОП.04). Практикум",
+        "book_autor": "Серкова Екатерина Геннадьевна",
+        "new_price": 463,
+        "old_price": 593,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Программирование на C# для начинающих. Особенности языка",
+        "book_autor": "Васильев Александр Николаевич",
+        "new_price": 1117,
+        "old_price": 1530,
+        "book_sale": 27
+    },
+    {
+        "book_title": "Компиляторы. Принципы, технологии и инструментарий",
+        "book_autor": "Ахо, Ульман, Лам",
+        "new_price": 7392,
+        "old_price": 13440,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Архитектура вычислительных систем и Ассемблер",
+        "book_autor": "Гагарина, Кононова",
+        "new_price": 845,
+        "old_price": 1537,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Delphi. Программирование в примерах и задачах. Практикум: Учебное пособие",
+        "book_autor": "Милорадов, Эйдлина",
+        "new_price": 924,
+        "old_price": 1680,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Java. Эффективное программирование",
+        "book_autor": "Блох Джошуа",
+        "new_price": 3746,
+        "old_price": 6810,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Создаем динамические веб-сайты с помощью PHP, MySQL, JavaScript, CSS и HTML5",
+        "book_autor": "Никсон Робин",
+        "new_price": 2766,
+        "old_price": 3546,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Kubernetes в действии",
+        "book_autor": "Лукша Марко",
+        "new_price": 2456,
+        "old_price": 4466,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Смарт-карты и информационная безопасность",
+        "book_autor": "Мытник, Панасенко",
+        "new_price": 1536,
+        "old_price": 2793,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Эффективный и современный С++. 42 рекомендации по использованию C++11 и C++14",
+        "book_autor": "Мейерс Скотт",
+        "new_price": 2958,
+        "old_price": 5378,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Изучаем регулярные выражения",
+        "book_autor": "Форта Бен",
+        "new_price": 1184,
+        "old_price": 2152,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Пользовательские истории. Гибкая разработка программного обеспечения",
+        "book_autor": "Кон Майк",
+        "new_price": 2958,
+        "old_price": 5378,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Python. Экспресс-курс",
+        "book_autor": "Седер Наоми",
+        "new_price": 2057,
+        "old_price": 2637,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Архитектура компьютера",
+        "book_autor": "Таненбаум, Остин",
+        "new_price": 2268,
+        "old_price": 2908,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Java. Руководство для начинающих",
+        "book_autor": "Шилдт Герберт",
+        "new_price": 3746,
+        "old_price": 6810,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Алгоритмы. Построение и анализ",
+        "book_autor": "Кормен, Лейзерсон, Ривест",
+        "new_price": 8872,
+        "old_price": 16130,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Изучай Erlang во имя добра!",
+        "book_autor": "Хеберт Фред",
+        "new_price": 2149,
+        "old_price": 3908,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Программируй на Haskell",
+        "book_autor": "Курт Уилл",
+        "new_price": 2456,
+        "old_price": 4466,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Конфигурирование и моделирование в системе \"1С: Предприятие\". Учебник",
+        "book_autor": "Дадян Эдуард Григорьевич",
+        "new_price": 2351,
+        "old_price": 4274,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Алгоритмы на C++",
+        "book_autor": "Седжвик Роберт",
+        "new_price": 5914,
+        "old_price": 10752,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Python. Справочник. Полное описание языка",
+        "book_autor": "Мартелли, Рейвенскрофт, Холден",
+        "new_price": 3746,
+        "old_price": 6810,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Теоретический минимум по Big Data. Всё что нужно знать о больших данных",
+        "book_autor": "Ын, Су",
+        "new_price": 979,
+        "old_price": 1255,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Основы программирования на языке Python",
+        "book_autor": "Златопольский Дмитрий Михайлович",
+        "new_price": 921,
+        "old_price": 1674,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Методы научных исследований в программной инженерии",
+        "book_autor": "Пантелеев Евгений Рафаилович",
+        "new_price": 1282,
+        "old_price": 1282,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Структуры данных в C#. Линейные и нелинейные динамические структуры. Учебное пособие",
+        "book_autor": "Симонова Елена Витальевна",
+        "new_price": 1672,
+        "old_price": 1672,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Программируем на Python",
+        "book_autor": "Доусон Майкл",
+        "new_price": 1372,
+        "old_price": 1759,
+        "book_sale": 22
+    },
+    {
+        "book_title": "HTML5. Карманный справочник",
+        "book_autor": "Роббинс Дженнифер",
+        "new_price": 1184,
+        "old_price": 2152,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Искусство программирования. Том 4А. Комбинаторные алгоритмы. Часть 1",
+        "book_autor": "Кнут Дональд Эрвин",
+        "new_price": 5914,
+        "old_price": 10752,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Практика программирования",
+        "book_autor": "Керниган, Пайк",
+        "new_price": 2268,
+        "old_price": 4123,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Введение в системы баз данных",
+        "book_autor": "Дейт К. Дж.",
+        "new_price": 5914,
+        "old_price": 10752,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Эволюционная архитектура. Поддержка непрерывных изменений",
+        "book_autor": "Форд, Парсонс, Куа",
+        "new_price": 1270,
+        "old_price": 1628,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Unity в действии. Мультиплатформенная разработка на C#",
+        "book_autor": "Хокинг Джозеф",
+        "new_price": 1488,
+        "old_price": 1908,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Решение задач на современном C++",
+        "book_autor": "Бансила Мариус",
+        "new_price": 1688,
+        "old_price": 3069,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Философия Java",
+        "book_autor": "Эккель Брюс",
+        "new_price": 3432,
+        "old_price": 4400,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Python для сложных задач. Наука о данных и машинное обучение",
+        "book_autor": "Плас Дж. Вандер",
+        "new_price": 1985,
+        "old_price": 2545,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Разработка программных приложений в среде BlackBox. Учебное пособие",
+        "book_autor": "Болотнов Анатолий Миронович",
+        "new_price": 1660,
+        "old_price": 1660,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Технологии интеллектуального анализа данных. Учебное пособие",
+        "book_autor": "Макшанов, Журавлев",
+        "new_price": 2187,
+        "old_price": 2187,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Практическое введение в язык программирования Си. Учебное пособие",
+        "book_autor": "Солдатенко, Попов",
+        "new_price": 1618,
+        "old_price": 1618,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Осваиваем C++17 STL. Используйте компоненты стандартной библиотеки в C++17 STL в полной мере",
+        "book_autor": "О`Двайр Артур",
+        "new_price": 1842,
+        "old_price": 3349,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Язык программирования C",
+        "book_autor": "Керниган, Ритчи",
+        "new_price": 1775,
+        "old_price": 3227,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Построение систем машинного обучения на языке Python",
+        "book_autor": "Коэльо, Ричарт",
+        "new_price": 1074,
+        "old_price": 1953,
+        "book_sale": 45
+    },
+    {
+        "book_title": "C# для профессионалов. Тонкости программирования",
+        "book_autor": "Скит Джон",
+        "new_price": 4436,
+        "old_price": 8066,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Python. Карманный справочник",
+        "book_autor": "Лутц Марк",
+        "new_price": 1184,
+        "old_price": 2152,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Искусство программирования. Том 1. Основные алгоритмы",
+        "book_autor": "Кнут Дональд Эрвин",
+        "new_price": 5224,
+        "old_price": 9498,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Шаблоны интеграции корпоративных приложений. Проектирование, создание и развертывание решений",
+        "book_autor": "Хоп, Вульф",
+        "new_price": 5224,
+        "old_price": 9498,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Язык программирования C. Лекции и упражнения",
+        "book_autor": "Прата Стивен",
+        "new_price": 5224,
+        "old_price": 9498,
+        "book_sale": 45
+    },
+    {
+        "book_title": "C# 4.0. Полное руководство",
+        "book_autor": "Шилдт Герберт",
+        "new_price": 3746,
+        "old_price": 6810,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Реализация методов предметно-ориентированного проектирования",
+        "book_autor": "Вернон Вон",
+        "new_price": 4436,
+        "old_price": 8066,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Веб-программирование для чайников",
+        "book_autor": "Никхил Абрахам",
+        "new_price": 1775,
+        "old_price": 3227,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Язык программирования Go",
+        "book_autor": "Керниган, Донован",
+        "new_price": 2268,
+        "old_price": 4123,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Angular. Сборник рецептов",
+        "book_autor": "Фрисби Мэтт",
+        "new_price": 1478,
+        "old_price": 2688,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Java. Полное руководство",
+        "book_autor": "Шилдт Герберт",
+        "new_price": 5421,
+        "old_price": 9856,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Компиляторы. Краткий справочник",
+        "book_autor": "Хантер Робин",
+        "new_price": 887,
+        "old_price": 1613,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Структуры данных и алгоритмы",
+        "book_autor": "Ахо, Ульман, Хопкрофт",
+        "new_price": 2958,
+        "old_price": 5378,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Шаблоны C++. Справочник разработчика",
+        "book_autor": "Вандевурд, Джосаттис, Грегор",
+        "new_price": 3746,
+        "old_price": 6810,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Java Persistence API и Hibernate",
+        "book_autor": "Бауэр, Кинг, Грегори",
+        "new_price": 1688,
+        "old_price": 3069,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Байесовские модели. Байесовская статистика на языке Python",
+        "book_autor": "Дауни Аллен Б.",
+        "new_price": 1074,
+        "old_price": 1953,
+        "book_sale": 45
+    },
+    {
+        "book_title": "CLR via C#. Программирование на платформе Microsoft .NET Framework 4.5 на языке C#. 4-е издание",
+        "book_autor": "Рихтер Джеффри",
+        "new_price": 2637,
+        "old_price": 3381,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих",
+        "book_autor": "Бхаргава Адитья",
+        "new_price": 1030,
+        "old_price": 1320,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Ядро ORACLE. Внутреннее устройство для администраторо и разработчиков баз данных",
+        "book_autor": "Льюис Джонатан",
+        "new_price": 1459,
+        "old_price": 2652,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Идеальный программист. Как стать профессионалом разработки ПО",
+        "book_autor": "Мартин Роберт С.",
+        "new_price": 821,
+        "old_price": 1053,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Apache Kafka. Потоковая обработка и анализ данных",
+        "book_autor": "Нархид, Шапира, Палино",
+        "new_price": 1738,
+        "old_price": 2228,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Site Reliability Engineering. Надежность и безотказность как в Google",
+        "book_autor": "Бейер, Джоунс, Петофф",
+        "new_price": 2377,
+        "old_price": 3047,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Akka в действии",
+        "book_autor": "Рестенбург, Баккер, Уильямс",
+        "new_price": 2149,
+        "old_price": 3908,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Искусство создания сценариев в Unity",
+        "book_autor": "Торн Алан",
+        "new_price": 1228,
+        "old_price": 2233,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Основы работы с технологией CUDA",
+        "book_autor": "Боресков, Харламов",
+        "new_price": 613,
+        "old_price": 1115,
+        "book_sale": 45
+    },
+    {
+        "book_title": "WebGL. Программирование трехмерной графики",
+        "book_autor": "Мацуда, Ли",
+        "new_price": 1842,
+        "old_price": 3349,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Чистый Python. Тонкости программирования для профи",
+        "book_autor": "Бейдер Дэн",
+        "new_price": 1548,
+        "old_price": 1985,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Введение в распределенное моделирование в среде NetLogo",
+        "book_autor": "Ершов Николай Михайлович",
+        "new_price": 1382,
+        "old_price": 2513,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Искусственный интеллект .NET. Речь, язык и поиск",
+        "book_autor": "Патак, Бхандари",
+        "new_price": 1228,
+        "old_price": 2233,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Элегантный SciPy",
+        "book_autor": "Нуньес-Иглесиас, Ван, Дэншоу",
+        "new_price": 1919,
+        "old_price": 3489,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Стандартная библиотека Python 3. Справочник с примерами",
+        "book_autor": "Хеллман Даг",
+        "new_price": 5421,
+        "old_price": 9856,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Язык декларативного программирования XAML",
+        "book_autor": "Подбельский Вадим Валерьевич",
+        "new_price": 1151,
+        "old_price": 2093,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Математика на Python. Часть 1. Элементы линейной алгебры",
+        "book_autor": "Александрова, Балджы, Хрипунова",
+        "new_price": 296,
+        "old_price": 538,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Облачные технологии поддержки решения задач анализа безубыточности. Монография",
+        "book_autor": "Смирнов Денис Евгеньевич",
+        "new_price": 518,
+        "old_price": 941,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Вскрытие покажет! Практический анализ вредоносного ПО",
+        "book_autor": "Сикорски, Хониг",
+        "new_price": 2625,
+        "old_price": 3365,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Программист-фанатик",
+        "book_autor": "Фаулер Чед",
+        "new_price": 749,
+        "old_price": 960,
+        "book_sale": 22
+    },
+    {
+        "book_title": "C# 7 и .NET Core. Кросс-платформенная разработка для профессионалов",
+        "book_autor": "Прайс Марк Дж.",
+        "new_price": 2209,
+        "old_price": 2832,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Компьютерные вирусы и антивирусы: взгляд программиста",
+        "book_autor": "Климентьев Константин Евгеньевич",
+        "new_price": 1228,
+        "old_price": 2233,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Прикладное программирование. Учебное пособие",
+        "book_autor": "Никифоров Сергей Николаевич",
+        "new_price": 1432,
+        "old_price": 1432,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Программирование на C# для начинающих. Основные сведения",
+        "book_autor": "Васильев Алексей Николаевич",
+        "new_price": 1124,
+        "old_price": 1540,
+        "book_sale": 27
+    },
+    {
+        "book_title": "Алгоритмы для чайников",
+        "book_autor": "Массарон, Мюллер",
+        "new_price": 1775,
+        "old_price": 3227,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Хакинг. Искусство эксплойта",
+        "book_autor": "Эриксон Джон",
+        "new_price": 1974,
+        "old_price": 2531,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Глубокое обучение на Python",
+        "book_autor": "Шолле Франсуа",
+        "new_price": 1758,
+        "old_price": 2254,
+        "book_sale": 22
+    },
+    {
+        "book_title": "С для программистов с введением в С11",
+        "book_autor": "Дейтел, Дейтел",
+        "new_price": 1612,
+        "old_price": 2930,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Параллельное и конкурентное программирование на Haskell",
+        "book_autor": "Марлоу Саймон",
+        "new_price": 1228,
+        "old_price": 2233,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Практическое использование Common Lisp",
+        "book_autor": "Сайбель Питер",
+        "new_price": 1842,
+        "old_price": 3349,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Сбор данных в Интернете на языке R",
+        "book_autor": "Храмов Дмитрий Александрович",
+        "new_price": 997,
+        "old_price": 1813,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Программирование микроконтроллеров. Стратегия и тактика",
+        "book_autor": "Матюшин Андрей Олегович",
+        "new_price": 1688,
+        "old_price": 3069,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Программирование и отладка С/С++ приложений для микроконтроллеров ARM",
+        "book_autor": "Магда Юрий Степанович",
+        "new_price": 691,
+        "old_price": 1256,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Эффективное использование С++. 55 верных способов улучшить структуру и код ваших программ",
+        "book_autor": "Мэйерс Скотт",
+        "new_price": 1074,
+        "old_price": 1953,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Assembler. Для DOS, Windows и Unix",
+        "book_autor": "Зубков Сергей Владимирович",
+        "new_price": 1536,
+        "old_price": 2793,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Лямбда-выражения в Java 8. Функциональное программирование - в массы",
+        "book_autor": "Уорбэртон Ричард",
+        "new_price": 921,
+        "old_price": 1674,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Системная инженерия. Принципы и практика",
+        "book_autor": "Косяков, Свит, Сеймур",
+        "new_price": 2149,
+        "old_price": 3908,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Интерфейс. Основы проектирования взаимодействия",
+        "book_autor": "Купер, Рейман, Кронин",
+        "new_price": 2266,
+        "old_price": 2905,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Аналоговые интерфейсы микроконтроллеров",
+        "book_autor": "Болл Стюарт Р.",
+        "new_price": 1228,
+        "old_price": 2233,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Анализ сетей (графов) в среде R. Руководство пользователя",
+        "book_autor": "Люк Дуглас А.",
+        "new_price": 1612,
+        "old_price": 2930,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Основы проектирования в Autodesk Inventor 2016",
+        "book_autor": "Зиновьев Дмитрий Валериевич",
+        "new_price": 613,
+        "old_price": 1115,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Bootstrap в примерах",
+        "book_autor": "Морето Сильвио",
+        "new_price": 1074,
+        "old_price": 1953,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Изучай Haskell во имя добра!",
+        "book_autor": "Липовача Миран",
+        "new_price": 1382,
+        "old_price": 2513,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Matlab & Simulink. Проектирование мехатронных систем на ПК. Учебное пособие для ВУЗов + CD",
+        "book_autor": "Герман-Галкин Сергей Германович",
+        "new_price": 413,
+        "old_price": 750,
+        "book_sale": 45
+    },
+    {
+        "book_title": "10 практических устройств на AVR-микроконтроллерах. Книга 2 +CD",
+        "book_autor": "Кравченко Алексей Владимирович",
+        "new_price": 362,
+        "old_price": 658,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Вычислительная геометрия. Алгоритмы и приложения",
+        "book_autor": "Де, Чеонг, Ван",
+        "new_price": 2456,
+        "old_price": 4466,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Разработка веб-приложений в ReactJS",
+        "book_autor": "Хортон, Вайс",
+        "new_price": 1382,
+        "old_price": 2513,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Введение в статистическое обучение с примерами на языке R",
+        "book_autor": "Джеймс, Уиттон, Тибширани",
+        "new_price": 2303,
+        "old_price": 4187,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Современное программирование с нуля!",
+        "book_autor": "Потопахин Виталий Валерьевич",
+        "new_price": 537,
+        "old_price": 976,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Android NDK. Руководство для начинающих",
+        "book_autor": "Ретабоуил Сильвен",
+        "new_price": 1538,
+        "old_price": 2797,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Скрапинг веб-сайтов с помощью Python. Сбор данных из современного интернета",
+        "book_autor": "Митчелл Райан",
+        "new_price": 1305,
+        "old_price": 2372,
+        "book_sale": 45
+    },
+    {
+        "book_title": "PIC-микроконтроллеры: архитектура и программирование",
+        "book_autor": "Предко Майкл",
+        "new_price": 1382,
+        "old_price": 2513,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Управление электронными устройствами на С++. Разработка практических приложений",
+        "book_autor": "Катупития, Бентли",
+        "new_price": 1688,
+        "old_price": 3069,
+        "book_sale": 45
+    },
+    {
+        "book_title": "C# 6.0. Справочник. Полное описание языка",
+        "book_autor": "Албахари, Албахари",
+        "new_price": 3746,
+        "old_price": 6810,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Искусство автономного тестирования с примерами на С#",
+        "book_autor": "Ошероув Рой",
+        "new_price": 1688,
+        "old_price": 3069,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Графовые базы данных. Новые возможности для работы",
+        "book_autor": "Робинсон, Вебер, Эифрем",
+        "new_price": 1151,
+        "old_price": 2093,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Руководство по микропроцессорному обеспечению",
+        "book_autor": "-",
+        "new_price": 1074,
+        "old_price": 1953,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Программирование компьютерного зрения на языке Python",
+        "book_autor": "Солем Ян Эрик",
+        "new_price": 1382,
+        "old_price": 2513,
+        "book_sale": 45
+    },
+    {
+        "book_title": "UML Проектирование систем реального времени, распределенных и параллельных приложений",
+        "book_autor": "Гома Хассан",
+        "new_price": 1919,
+        "old_price": 3489,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Периферийные устройства: интерфейсы, схемотехника, программирование",
+        "book_autor": "Авдеев Вадим Александрович",
+        "new_price": 1382,
+        "old_price": 2513,
+        "book_sale": 45
+    },
+    {
+        "book_title": "R в действии. Анализ и визуализация данных на языке R",
+        "book_autor": "Кабаков Роберт И.",
+        "new_price": 1536,
+        "old_price": 2793,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Анализ больших наборов данных",
+        "book_autor": "Лесковец, Ульман, Раджараман",
+        "new_price": 1842,
+        "old_price": 3349,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Построение компиляторов",
+        "book_autor": "Вирт Никлаус",
+        "new_price": 767,
+        "old_price": 1395,
+        "book_sale": 45
+    },
+    {
+        "book_title": "MATLAB. Теория и практика",
+        "book_autor": "Гилат Амос",
+        "new_price": 1842,
+        "old_price": 3349,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Численные методы анализа и линейной алгебры. Использование Matlab и Scilab. Учебное пособие",
+        "book_autor": "Квасов Борис Ильич",
+        "new_price": 2141,
+        "old_price": 2141,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Введение в надежное и безопасное распределенное программирование",
+        "book_autor": "Качина, Гуерру, Родригес",
+        "new_price": 1995,
+        "old_price": 3628,
+        "book_sale": 45
+    },
+    {
+        "book_title": "C# 6.0. Карманный справочник",
+        "book_autor": "Албахари, Албахари",
+        "new_price": 592,
+        "old_price": 1077,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Введение в ECMAScript 6",
+        "book_autor": "Прасти Нараян",
+        "new_price": 767,
+        "old_price": 1395,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Программирование мобильных устройств на платформе .Net Compact Framework",
+        "book_autor": "Самре Иво",
+        "new_price": 690,
+        "old_price": 1255,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Разработка приложений для iPhone, iPad и iPod touch с использованием iOS SDK",
+        "book_autor": "Марк, Наттинг, Ламарш",
+        "new_price": 1478,
+        "old_price": 2688,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Silverlight 5 с примерами на C# для профессионалов",
+        "book_autor": "Мак-Дональд Мэтью",
+        "new_price": 1775,
+        "old_price": 3227,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Java SE 8. Вводный курс",
+        "book_autor": "Хорстманн Кей С.",
+        "new_price": 887,
+        "old_price": 1613,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Joomla! Для профессионалов",
+        "book_autor": "Рамел Дэн",
+        "new_price": 1478,
+        "old_price": 2688,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Microsoft Exchange Server 2013. Полное руководство",
+        "book_autor": "Моримото, Ноэл, Ярдени",
+        "new_price": 2958,
+        "old_price": 5378,
+        "book_sale": 45
+    },
+    {
+        "book_title": "WinRT. программирование на C# для профессионалов",
+        "book_autor": "Рихтер, ван",
+        "new_price": 1478,
+        "old_price": 2688,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Руководство для программиста на Java. 75 рекомендаций по написанию надежных и защищенных программ",
+        "book_autor": "Лонг, Мохиндра, Сикорд",
+        "new_price": 789,
+        "old_price": 1435,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Drupal 7. Руководство пользователя",
+        "book_autor": "Колисниченко Денис Николаевич",
+        "new_price": 296,
+        "old_price": 539,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Joomla 2.5. Руководство пользователя",
+        "book_autor": "Колисниченко Денис Николаевич",
+        "new_price": 493,
+        "old_price": 896,
+        "book_sale": 45
+    },
+    {
+        "book_title": "C# 5.0 и платформа .NET 4.5 для профессионалов",
+        "book_autor": "Глинн, Нейгел, Ивьен",
+        "new_price": 2268,
+        "old_price": 4123,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Python на практике",
+        "book_autor": "Саммерфилд Марк",
+        "new_price": 1228,
+        "old_price": 2233,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Линейное программирование. Руководство к решению задач",
+        "book_autor": "Лунгу Константин Никитович",
+        "new_price": 217,
+        "old_price": 394,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Поисковая адаптация. Теория и практика",
+        "book_autor": "Курейчик, Лебедев, Лебедев",
+        "new_price": 472,
+        "old_price": 858,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Компьютерное моделирование логических процессов. Архитектура и язык решателя задач",
+        "book_autor": "Подколзин Александр Сергеевич",
+        "new_price": 1220,
+        "old_price": 2218,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Дизайн и эволюция языка С++",
+        "book_autor": "Страуструп Бьерн",
+        "new_price": 1151,
+        "old_price": 2093,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Обработка естественного языка на Java",
+        "book_autor": "Риз Ричард",
+        "new_price": 1074,
+        "old_price": 1953,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Теория вычислений для программистов",
+        "book_autor": "Стюарт Том",
+        "new_price": 1228,
+        "old_price": 2233,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Алгоритмы и структуры данных. Новая версия для Оберона",
+        "book_autor": "Вирт Никлаус",
+        "new_price": 997,
+        "old_price": 1813,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Язык программирования C++. Лекции и упражнения",
+        "book_autor": "Прата Стивен",
+        "new_price": 5914,
+        "old_price": 10752,
+        "book_sale": 45
+    },
+    {
+        "book_title": "C++ для чайников",
+        "book_autor": "Дэвис Стефан Рэнди",
+        "new_price": 1478,
+        "old_price": 2688,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Программирование командных оболочек в Unix, Linux и OS X",
+        "book_autor": "Кочан, Вуд",
+        "new_price": 2958,
+        "old_price": 5378,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Рефакторинг. Улучшение проекта существующего кода",
+        "book_autor": "Бек, Фаулер, Брант",
+        "new_price": 3746,
+        "old_price": 6810,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Изучаем программирование на Python",
+        "book_autor": "Бэрри Пол",
+        "new_price": 1590,
+        "old_price": 2178,
+        "book_sale": 27
+    },
+    {
+        "book_title": "Семь баз данных за семь недель. Введение в современные базы данных и идеологию NoSQL",
+        "book_autor": "Редмонд, Уилсон",
+        "new_price": 1382,
+        "old_price": 2513,
+        "book_sale": 45
+    },
+    {
+        "book_title": "jQuery в действии",
+        "book_autor": "Бибо, Кац, Де",
+        "new_price": 1415,
+        "old_price": 1814,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Шаблоны проектирования Node.JS",
+        "book_autor": "Касиаро, Маммино",
+        "new_price": 1765,
+        "old_price": 3209,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Vulkan. Руководство разработчика",
+        "book_autor": "Селлерс, Кессенич",
+        "new_price": 1459,
+        "old_price": 2652,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Среда динамического моделирования технических систем SimInTech. Практикум по моделированию систем",
+        "book_autor": "Карташов, Козлов, Шабаев",
+        "new_price": 1842,
+        "old_price": 3349,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Алгоритмы. Справочник с примерами на C, C++, Java и Python",
+        "book_autor": "Хайнеман, Поллис, Селков",
+        "new_price": 2958,
+        "old_price": 5378,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Изучаем JavaScript. Руководство по созданию современных веб-сайтов",
+        "book_autor": "Браун Этан",
+        "new_price": 2268,
+        "old_price": 4123,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Изучаем OpenCV 3",
+        "book_autor": "Кэлер, Брэдски",
+        "new_price": 3378,
+        "old_price": 6141,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Семь языков за семь недель. Практическое руководство по изучению языков программирования",
+        "book_autor": "Тейт Брюс",
+        "new_price": 1305,
+        "old_price": 2372,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Программирование на Java для начинающих",
+        "book_autor": "Васильев Алексей Николаевич",
+        "new_price": 1062,
+        "old_price": 1455,
+        "book_sale": 27
+    },
+    {
+        "book_title": "Javascript и jQuery. Интерактивная веб-разработка",
+        "book_autor": "Дакетт Джон",
+        "new_price": 2165,
+        "old_price": 2966,
+        "book_sale": 27
+    },
+    {
+        "book_title": "Предметно-ориентированное проектирование. Самое основное",
+        "book_autor": "Вернон Вон",
+        "new_price": 2268,
+        "old_price": 4123,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Введение в Elixir. Введение в функциональное программирование",
+        "book_autor": "Сенлорен, Эйзенберг",
+        "new_price": 1074,
+        "old_price": 1953,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Как самому написать мобильную 2D-игру",
+        "book_autor": "Язев Юрий Евгеньевич",
+        "new_price": 845,
+        "old_price": 1537,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Python и машинное обучение",
+        "book_autor": "Рашка Себастьян",
+        "new_price": 2303,
+        "old_price": 4187,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Проектирование пользовательского интерфейса в Android",
+        "book_autor": "Клифтон Ян",
+        "new_price": 1536,
+        "old_price": 2793,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Прикладная криптография. Протоколы, алгоритмы и исходный код на C",
+        "book_autor": "Шнайер Брюс",
+        "new_price": 7392,
+        "old_price": 13440,
+        "book_sale": 45
+    },
+    {
+        "book_title": "ASP.NET Core MVC с примерами на C# для профессионалов",
+        "book_autor": "Фримен Адам",
+        "new_price": 5224,
+        "old_price": 9498,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Стек, или Путешествие туда и обратно",
+        "book_autor": "Вторников Алексей Анатольевич",
+        "new_price": 691,
+        "old_price": 1256,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Реактивное программирование с использованием RxJava",
+        "book_autor": "Нуркевич, Кристенсен",
+        "new_price": 1459,
+        "old_price": 2652,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Изучаем PHP 7. Руководство по созданию интерактивных веб-сайтов",
+        "book_autor": "Скляр Дэвид",
+        "new_price": 2958,
+        "old_price": 5378,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Не заставляйте меня думать. Веб-юзабилити и здравый смысл",
+        "book_autor": "Круг Стив",
+        "new_price": 856,
+        "old_price": 1172,
+        "book_sale": 27
+    },
+    {
+        "book_title": "Go на практике",
+        "book_autor": "Батчер, Фарина",
+        "new_price": 1382,
+        "old_price": 2513,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Использование Docker",
+        "book_autor": "Моуэт Эдриен",
+        "new_price": 1525,
+        "old_price": 2772,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Методы разработки математических моделей и вычислительный эксперимент на базе пакета MATLAB",
+        "book_autor": "Плохотников Константин Эдуардович",
+        "new_price": 1434,
+        "old_price": 2607,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Цифровая обработка сигналов на языке Python",
+        "book_autor": "Дауни Аллен Б.",
+        "new_price": 613,
+        "old_price": 1115,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Программирование на C++ в примерах и задачах",
+        "book_autor": "Васильев Алексей Николаевич",
+        "new_price": 777,
+        "old_price": 1064,
+        "book_sale": 27
+    },
+    {
+        "book_title": "Cassandra. Полное руководство",
+        "book_autor": "Карпентер, Хьюитт",
+        "new_price": 1459,
+        "old_price": 2652,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Изучаем Angular 2",
+        "book_autor": "Дилеман Пабло",
+        "new_price": 1074,
+        "old_price": 1953,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Разработка обслуживаемых программ на языке C#",
+        "book_autor": "Виссер Джуст",
+        "new_price": 997,
+        "old_price": 1813,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Разработка обслуживаемых программ на языке Java",
+        "book_autor": "Виссер Джуст",
+        "new_price": 997,
+        "old_price": 1813,
+        "book_sale": 45
+    },
+    {
+        "book_title": "XBRL для чайников",
+        "book_autor": "Хоффман, Уотсон",
+        "new_price": 2268,
+        "old_price": 4123,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Разработка геоприложений на языке Python",
+        "book_autor": "Вестра Эрик",
+        "new_price": 1688,
+        "old_price": 3069,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Инженерия требований",
+        "book_autor": "Халл, Джексон, Дик",
+        "new_price": 1382,
+        "old_price": 2513,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Программирование PIC - микроконтроллеров на PicBasic",
+        "book_autor": "Хелибайк Чак",
+        "new_price": 691,
+        "old_price": 1256,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Введение в современные САПР. Курс лекций",
+        "book_autor": "Малюх Владимир Николаевич",
+        "new_price": 537,
+        "old_price": 976,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Функциональное программирование на F#",
+        "book_autor": "Сошников Дмитрий Валерьевич",
+        "new_price": 845,
+        "old_price": 1536,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Скользкие места С++. Как избежать проблем  при проектировании и компиляции ваших программ",
+        "book_autor": "Дьюхэрст Стефан К.",
+        "new_price": 845,
+        "old_price": 1536,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Программируем микрокомпьютер NXT в LabVIEW",
+        "book_autor": "Белиовская, Белиовский",
+        "new_price": 515,
+        "old_price": 936,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Dart в действии",
+        "book_autor": "Баккет Крис",
+        "new_price": 1612,
+        "old_price": 2930,
+        "book_sale": 45
+    },
+    {
+        "book_title": "MATLAB. Полный самоучитель",
+        "book_autor": "Дьяконов Владимир Павлович",
+        "new_price": 2303,
+        "old_price": 4187,
+        "book_sale": 45
+    },
+    {
+        "book_title": "С для программистов с введением в С11",
+        "book_autor": "Дейтел, Дейтел",
+        "new_price": 1612,
+        "old_price": 2930,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Параллельное и конкурентное программирование на Haskell",
+        "book_autor": "Марлоу Саймон",
+        "new_price": 1228,
+        "old_price": 2233,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Практическое использование Common Lisp",
+        "book_autor": "Сайбель Питер",
+        "new_price": 1842,
+        "old_price": 3349,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Сбор данных в Интернете на языке R",
+        "book_autor": "Храмов Дмитрий Александрович",
+        "new_price": 997,
+        "old_price": 1813,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Программирование микроконтроллеров. Стратегия и тактика",
+        "book_autor": "Матюшин Андрей Олегович",
+        "new_price": 1688,
+        "old_price": 3069,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Ruby on Rails для начинающих. Изучаем разработку веб-приложений на основе Rails",
+        "book_autor": "Хартл Майкл",
+        "new_price": 1995,
+        "old_price": 3628,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Программирование и отладка С/С++ приложений для микроконтроллеров ARM",
+        "book_autor": "Магда Юрий Степанович",
+        "new_price": 691,
+        "old_price": 1256,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Эффективное использование С++. 55 верных способов улучшить структуру и код ваших программ",
+        "book_autor": "Мэйерс Скотт",
+        "new_price": 1074,
+        "old_price": 1953,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Assembler. Для DOS, Windows и Unix",
+        "book_autor": "Зубков Сергей Владимирович",
+        "new_price": 1536,
+        "old_price": 2793,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Лямбда-выражения в Java 8. Функциональное программирование - в массы",
+        "book_autor": "Уорбэртон Ричард",
+        "new_price": 921,
+        "old_price": 1674,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Системная инженерия. Принципы и практика",
+        "book_autor": "Косяков, Свит, Сеймур",
+        "new_price": 2149,
+        "old_price": 3908,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Оптимизация приложений на платформе .Net",
+        "book_autor": "Голдштейн, Зурбалев, Флатов",
+        "new_price": 2000,
+        "old_price": 3636,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Интерфейс. Основы проектирования взаимодействия",
+        "book_autor": "Купер, Рейман, Кронин",
+        "new_price": 2266,
+        "old_price": 2905,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Аналоговые интерфейсы микроконтроллеров",
+        "book_autor": "Болл Стюарт Р.",
+        "new_price": 1228,
+        "old_price": 2233,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Автоматизированные информационно-управляющие системы с применением SCADA-системы TRACE MODE",
+        "book_autor": "Пьявченко Тамила Алексеевна",
+        "new_price": 2621,
+        "old_price": 2621,
+        "book_sale": 0
+    },
+    {
+        "book_title": "ATDD. Разработка программного обеспечения через приемочные тесты. Практический подход",
+        "book_autor": "Гэртнер Маркус",
+        "new_price": 997,
+        "old_price": 1813,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Читаем Тьюринга. Путешествие по исторической статье Тьюринга о вычислимости и машинах Тьюринга",
+        "book_autor": "Петцольд Чарльз",
+        "new_price": 1536,
+        "old_price": 2793,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Шейдеры и эффекты в Unity. Книга рецептов",
+        "book_autor": "Ламмерс Кенни",
+        "new_price": 1151,
+        "old_price": 2093,
+        "book_sale": 45
+    },
+    {
+        "book_title": "JavaScript и jQuery. Исчерпывающее руководство",
+        "book_autor": "Макфарланд Дэвид",
+        "new_price": 1772,
+        "old_price": 2427,
+        "book_sale": 27
+    },
+    {
+        "book_title": "Полезное программирование. Уникальное руководство",
+        "book_autor": "Комлев Николай Юрьевич",
+        "new_price": 768,
+        "old_price": 1397,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Visual FoxPro 9.0. Учебный курс",
+        "book_autor": "Мусина Т.В.",
+        "new_price": 465,
+        "old_price": 845,
+        "book_sale": 45
+    },
+    {
+        "book_title": "MATLAB и SIMULINK для радиоинженеров",
+        "book_autor": "Дьяконов Владимир Павлович",
+        "new_price": 1995,
+        "old_price": 3628,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Справочник по языку Haskell",
+        "book_autor": "Душкин Роман Викторович",
+        "new_price": 997,
+        "old_price": 1813,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Программирование на ассемблере на платформе x86-64",
+        "book_autor": "Аблязов Руслан Зуфярович",
+        "new_price": 1305,
+        "old_price": 2372,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Семантический веб",
+        "book_autor": "Антониоу, Грос, Хоекстра",
+        "new_price": 921,
+        "old_price": 1674,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Функциональное программирование на языке Haskell",
+        "book_autor": "Душкин Роман Викторович",
+        "new_price": 1074,
+        "old_price": 1953,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Программирование на языке Go. Разработка приложений XXI века",
+        "book_autor": "Саммерфильд Марк",
+        "new_price": 1688,
+        "old_price": 3069,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Разработка программного обеспечения: управление изменениями",
+        "book_autor": "Белладжио, Миллиган",
+        "new_price": 639,
+        "old_price": 1162,
+        "book_sale": 45
+    },
+    {
+        "book_title": "От математики к обобщенному программированию",
+        "book_autor": "Степанов, Роуз",
+        "new_price": 1382,
+        "old_price": 2513,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Изучаем программирование на JavaScript",
+        "book_autor": "Фримен, Робсон",
+        "new_price": 2594,
+        "old_price": 3325,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Путь Ruby",
+        "book_autor": "Фултон, Арко",
+        "new_price": 2149,
+        "old_price": 3908,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Изучаем Spark",
+        "book_autor": "Карау, Конвински, Венделл",
+        "new_price": 1305,
+        "old_price": 2372,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Статистический анализ и визуализация данных с помощью R",
+        "book_autor": "Мастицкий, Шитиков",
+        "new_price": 1536,
+        "old_price": 2793,
+        "book_sale": 45
+    },
+    {
+        "book_title": "LLVM. Инфраструктура для разработки компиляторов",
+        "book_autor": "Кардос, Аулер",
+        "new_price": 1305,
+        "old_price": 2372,
+        "book_sale": 45
+    },
+    {
+        "book_title": "OpenGL ES 3.0. Руководство разработчика",
+        "book_autor": "Гинсбург, Пурномо",
+        "new_price": 1995,
+        "old_price": 3628,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Современный Фортран на практике",
+        "book_autor": "Маркус Арьен",
+        "new_price": 1151,
+        "old_price": 2093,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Квантовые вычисления и функциональное программирование",
+        "book_autor": "Душкин Роман Викторович",
+        "new_price": 845,
+        "old_price": 1536,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Создание облачных и мобильных приложений на языке F#",
+        "book_autor": "Мол Дэниел",
+        "new_price": 613,
+        "old_price": 1115,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Проектирование на ПЛИС. Архитектура, средства и методы. Курс молодого бойца",
+        "book_autor": "Максфилд Клайв",
+        "new_price": 1536,
+        "old_price": 2793,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Программирование микроконтроллеров ATMEL на языке C",
+        "book_autor": "Прокопенко Вадим Сергеевич",
+        "new_price": 774,
+        "old_price": 1408,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Семь моделей конкуренции и параллелизма за семь недель",
+        "book_autor": "Батчер Пол",
+        "new_price": 1382,
+        "old_price": 2513,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Адаптивные и инвариантные алгоритмы обнаружения объектов на изображениях и их моделирование в Matla",
+        "book_autor": "Волков Владимир Юрьевич",
+        "new_price": 1640,
+        "old_price": 1640,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Дневник охотника за ошибками. Путешествие через джунгли проблем безопасности программного обеспеч.",
+        "book_autor": "Клейн Тобиас",
+        "new_price": 1228,
+        "old_price": 2233,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Введение в UML от создателей языка",
+        "book_autor": "Рамбо, Якобсон, Буч",
+        "new_price": 1382,
+        "old_price": 2513,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Технологии программирования на Java 2. Распределенные приложения",
+        "book_autor": "Дейтел, Дейтел, Сантри",
+        "new_price": 515,
+        "old_price": 937,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Silverlight 4. Создание насыщенных Web-приложений",
+        "book_autor": "Байдачный Сергей Сергеевич",
+        "new_price": 406,
+        "old_price": 739,
+        "book_sale": 45
+    },
+    {
+        "book_title": "EJB 3 в действии",
+        "book_autor": "Панда, Рахман, Купрак",
+        "new_price": 1536,
+        "old_price": 2793,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Обработка неструктурированных текстов. Поиск, организация и манипулирование",
+        "book_autor": "Ингерсолл, Иортон, Фэррис",
+        "new_price": 1151,
+        "old_price": 2093,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Жемчужины проектирования алгоритмов. Функциональный подход. С примерами на языке Haskell",
+        "book_autor": "Бёрд Ричард",
+        "new_price": 1305,
+        "old_price": 2372,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Программирование в Delphi для Windows: Версии 2006, 2007, Turbo Delphi (+СD)",
+        "book_autor": "Архангельский Алексей Яковлевич",
+        "new_price": 1032,
+        "old_price": 1876,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Практика программирования на языке Паскаль. Задачи и решения",
+        "book_autor": "Медведик Владимир Иванович",
+        "new_price": 1536,
+        "old_price": 2793,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Методы обработки и распознавания изображений лиц в задачах биометрии",
+        "book_autor": "Кухарев, Каменская, Матвеев",
+        "new_price": 1257,
+        "old_price": 1257,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Эффективные технологии создания информационных систем",
+        "book_autor": "Мещеряков, Иванов",
+        "new_price": 601,
+        "old_price": 601,
+        "book_sale": 0
+    },
+    {
+        "book_title": "Введение в теорию языков программирования",
+        "book_autor": "Довек, Леви",
+        "new_price": 613,
+        "old_price": 1115,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Spring в действии",
+        "book_autor": "Уоллс Крейг",
+        "new_price": 1839,
+        "old_price": 3344,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Программирование на языке OCaml",
+        "book_autor": "Мински, Мадхавапедди, Хикки",
+        "new_price": 1536,
+        "old_price": 2793,
+        "book_sale": 45
+    },
+    {
+        "book_title": "CUDA Fortran для инженеров и научных работников. Рекомендации по эффективному программированию",
+        "book_autor": "Рутш, Фатика",
+        "new_price": 921,
+        "old_price": 1674,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Платформа Windows Azure",
+        "book_autor": "Редкар, Тони",
+        "new_price": 1228,
+        "old_price": 2233,
+        "book_sale": 45
+    },
+    {
+        "book_title": "За пределами \"Linux с нуля\". Версия 7.4. Том 2",
+        "book_autor": "-",
+        "new_price": 1228,
+        "old_price": 2233,
+        "book_sale": 45
+    },
+    {
+        "book_title": ".NET Сетевое программирование",
+        "book_autor": "Кумар, Кровчик, Лагари",
+        "new_price": 962,
+        "old_price": 1749,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Редкая профессия",
+        "book_autor": "Зуев Евгений Александрович",
+        "new_price": 460,
+        "old_price": 836,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Моделирование электротехнических устройств в MATLAB. SimPowerSystems и Simulink",
+        "book_autor": "Черных Илья Викторович",
+        "new_price": 613,
+        "old_price": 1115,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Java. Эффективное программирование",
+        "book_autor": "Блох Джошуа",
+        "new_price": 850,
+        "old_price": 1546,
+        "book_sale": 45
+    },
+    {
+        "book_title": "LabVIEW. Практический курс для инженеров и разработчиков",
+        "book_autor": "Магда Юрий Степанович",
+        "new_price": 767,
+        "old_price": 1395,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Принципы построения, применения и проектирования компьютерной платформы U-SYS",
+        "book_autor": "Росляков, Крылов",
+        "new_price": 245,
+        "old_price": 445,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Разработка приложений Java EE 6 в NetBeans 7",
+        "book_autor": "Хеффельфингер Дэвид",
+        "new_price": 921,
+        "old_price": 1674,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Курс практического программирования в Delphi. Объектно – ориентированное программирование. Практикум",
+        "book_autor": "Санников Е. В.",
+        "new_price": 641,
+        "old_price": 1165,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Оптимизация производительности приложений для iOS. Для профессионалов",
+        "book_autor": "Во Ханг",
+        "new_price": 704,
+        "old_price": 1280,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Структуры данных и алгоритмы в Java. Классика Computers Science",
+        "book_autor": "Лафоре Роберт",
+        "new_price": 2830,
+        "old_price": 3628,
+        "book_sale": 22
+    },
+    {
+        "book_title": "Создание web-приложений в Silverlight",
+        "book_autor": "Буньон Лоран",
+        "new_price": 573,
+        "old_price": 1042,
+        "book_sale": 45
+    },
+    {
+        "book_title": "С++ для начинающих",
+        "book_autor": "Шилдт Герберт",
+        "new_price": 974,
+        "old_price": 1770,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Профессиональное программирование приложений для iPhone и iPad",
+        "book_autor": "Баклин Джин",
+        "new_price": 1010,
+        "old_price": 1384,
+        "book_sale": 27
+    },
+    {
+        "book_title": "Silverlight. Практическое руководство",
+        "book_autor": "Браун Пит",
+        "new_price": 1399,
+        "old_price": 1793,
+        "book_sale": 22
+    },
+    {
+        "book_title": "PHP. Создание динамических страниц",
+        "book_autor": "Пауэрс Дэвид",
+        "new_price": 1135,
+        "old_price": 1555,
+        "book_sale": 27
+    },
+    {
+        "book_title": "Изучаем Java",
+        "book_autor": "Сьерра, Бейтс",
+        "new_price": 1590,
+        "old_price": 2178,
+        "book_sale": 27
+    },
+    {
+        "book_title": "1С: Предприятие 8.2. Коротко о главном. Новые возможности версии 8.2 (+CD)",
+        "book_autor": "Радченко Максим Григорьевич",
+        "new_price": 191,
+        "old_price": 347,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Как настраивать \"1С: Предприятие 8.2\" при внедрении +СD",
+        "book_autor": "Ажеронок Валентин Александрович",
+        "new_price": 185,
+        "old_price": 336,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Macromedia Authorware 6.0. Разработка мультимедийных учебных курсов",
+        "book_autor": "Гультяев Алексей Константинович",
+        "new_price": 228,
+        "old_price": 414,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Руководство разработчика по Microsoft Enterprise Library",
+        "book_autor": "Хоумер, Ботто, Мельник",
+        "new_price": 516,
+        "old_price": 938,
+        "book_sale": 45
+    },
+    {
+        "book_title": "Silverlight 2. Технология создания интернет-приложений",
+        "book_autor": "Буньон Лоран",
+        "new_price": 460,
+        "old_price": 837,
+        "book_sale": 45
+    }
+]
